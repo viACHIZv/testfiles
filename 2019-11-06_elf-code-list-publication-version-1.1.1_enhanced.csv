@@ -1308,7 +1308,8 @@ JOX1,Jersey,JE,,,je,Public Limited Company,English,en,Public Limited Company,LTD
 LO9A,Jersey,JE,,,je,Private Limited by Guarantee,English,en,Private Limited by Guarantee,Ltd;Ltd.;Limited,,11/30/17,ACTV,,,,
 SQXV,Jersey,JE,,,je,Private Limited Company,English,en,Private Limited Company,LTD;A.R.L;Limited,,11/30/17,ACTV,,,,
 UBWU,Jersey,JE,,,je,Limited Partnership,English,en,Limited Partnership,L.P.;LP;limited partnership;Limited Partnership,,11/30/17,ACTV,,,,
-,,JP,,,jp,株式会社,Japanese,jp,kabushiki gaisha,,K.K.,,,,,,"lit. ""stock company"", the most typical form of business corporation, usually translated in company names as ""Company, Limited""/""Co., Ltd."""
+,,JP,,,jp,株式会社,Japanese,jp,kabushiki gaisha,(株);(㍿);㍿,K.K.,,,,,,"lit. ""stock company"", the most typical form of business corporation, usually translated in company names as ""Company, Limited""/""Co., Ltd."""
+,,JP,,,jp,Stock company,English,en,,"Co., Ltd.;Co, Ltd;Company, Limited;Incorporated;Inc.;Inc;Corporation;Corp.",,,,,,,"Texts in England often refer to kabushiki gaisha as ""joint stock companies."" While that is close to a literal translation of the term, the two are not the same. The Japanese government once endorsed ""business corporation"" as an official translation but now uses more literal translation ""stock company."""
 ,,JP,,,jp,合同会社,Japanese,jp,gōdō gaisha,,G.K.,,,,,,"lit. ""amalgamated company"", a close corporation form similar to the American LLC, introduced in 2006"
 ,,JP,,,jp,有限会社,Japanese,jp,yūgen gaisha,,Y.K.,,,,,,"lit. ""limited company"", a close corporation form for smaller businesses, abolished in 2006 and replaced by G.K. above"
 ,,JP,,,jp,合名会社,Japanese,jp,gōmei gaisha,,GMK,,,,,,corporation similar to a general partnership
@@ -1427,14 +1428,19 @@ RTVE,Mauritius,MU,,,mu,Limited Liability Partnerships,English,en,Limited Liabili
 S2J1,Mauritius,MU,,,mu,Others,English,en,Others,,,11/30/17,ACTV,,,,
 XXCZ,Mauritius,MU,,,mu,Public company limited by shares,English,en,Public Companies,PC;PLC;LTD;LTEE,,11/30/17,ACTV,,,,
 ZTUI,Mauritius,MU,,,mu,Associations,English,en,Associations,,,11/30/17,ACTV,,,,
+,,MY,,,my,Berhad,Malay,ms,Berhad,Bhd.;Bhd,,,,,,,Public Limited Company
+,,MY,,,my,Sendirian Berhad,Malay,ms,Sendirian Berhad,Sdn. Bhd.;Sdn Bhd;Sdn.Bhd.,,,,,,,Private Limited Company
+,,MY,,,my,Limited Liability Partnership,English,en,Limited Liability Partnership,LLP;L.L.P.;Limited Liability Partnership,,,,,,,Limited Liability Partnership
+,,MY,,,my,Yayasan,Malay,ms,Yayasan,,,,,,,,Malaysian Foundation; company limited by guarantee
+,,MY,,,my,Foundation,English,en,Foundation,,,,,,,,Malaysian Foundation; company limited by guarantee
 33MN,Netherlands,NL,,,nl,vereniging,Dutch,nl,vereniging,,,11/30/17,ACTV,,,,
 4QXM,Netherlands,NL,,,nl,eenmanszaak,Dutch,nl,eenmanszaak,,,11/30/17,ACTV,,,,
-54M6,Netherlands,NL,,,nl,besloten vennootschap met beperkte aansprakelijkheid,Dutch,nl,besloten vennootschap met beperkte aansprakelijkheid,BV;bv;B.V.;b.v.,,11/30/17,ACTV,,,,
+54M6,Netherlands,NL,,,nl,besloten vennootschap met beperkte aansprakelijkheid,Dutch,nl,besloten vennootschap met beperkte aansprakelijkheid,BV;B.V.,,11/30/17,ACTV,,,,
 5WU6,Netherlands,NL,,,nl,Europees Economisch Samenwerkingsverband,Dutch,nl,Europees Economisch Samenwerkingsverband,EESV;E.E.S.V.,,11/30/17,ACTV,,,,
 62Y3,Netherlands,NL,,,nl,vennootschap onder firma,Dutch,nl,vennootschap onder firma,VOF;vof;V.O.F.;v.o.f.,,11/30/17,ACTV,,,,
 9AAK,Netherlands,NL,,,nl,maatschap,Dutch,nl,maatschap,,,11/30/17,ACTV,,,,
 A0W7,Netherlands,NL,,,nl,publiekrechtelijke rechtspersoon,Dutch,nl,publiekrechtelijke rechtspersoon,,,11/30/17,ACTV,,,,
-B5PM,Netherlands,NL,,,nl,naamloze vennootschap,Dutch,nl,naamloze vennootschap,NV;nv;N.V.;n.v.,,11/30/17,ACTV,,,,
+B5PM,Netherlands,NL,,,nl,naamloze vennootschap,Dutch,nl,naamloze vennootschap,N.V.;NV,,11/30/17,ACTV,,,,
 BBEB,Netherlands,NL,,,nl,Europese naamloze vennootschap (Societas Europaea),Dutch,nl,Europese naamloze vennootschap (Societas Europaea),SE;S.E.,,11/30/17,ACTV,,,,
 CODH,Netherlands,NL,,,nl,commanditaire vennootschap,Dutch,nl,commanditaire vennootschap,CV;cv;C.V.;c.v.,,11/30/17,ACTV,,,,
 DEO1,Netherlands,NL,,,nl,onderlinge waarborgmaatschappij,Dutch,nl,onderlinge waarborgmaatschappij,OWM;owm;O.W.M.;o.w.m.,,11/30/17,ACTV,,,,
@@ -1734,11 +1740,11 @@ E7W8,Serbia,RS,,,rs,Задруга,Serbian,sr,Zadruga,,,11/30/17,ACTV,,,,
 KIU5,Serbia,RS,,,rs,Друштво са ограниченом одговорношћу,Serbian,sr,Društvo sa ograničenom odgovornošću,д.о.о.;доо,d.o.o.;doo,11/30/17,ACTV,,,,
 YVPW,Serbia,RS,,,rs,Акционарско друштво,Serbian,sr,Akcionarsko društvo,а.д;ад,a.d;ad,11/30/17,ACTV,,,,
 ZPOY,Serbia,RS,,,rs,Ортачко друштво,Serbian,sr,Ortačko društvo,о.д.;од,o.d.;od,11/30/17,ACTV,,,,
-17FJ,Singapore,SG,,,sg,Limited Partnership,English,en,Limited Partnership,LP;limited partnership;Limited Partnership,,11/30/17,ACTV,,,,
+17FJ,Singapore,SG,,,sg,Limited Partnership,English,en,Limited Partnership,Limited Partnership;L.P.;LP,,11/30/17,ACTV,,,,
 2PHU,Singapore,SG,,,sg,Business,English,en,Business,,,11/30/17,ACTV,,,,
-5SGV,Singapore,SG,,,sg,Limited Liability Partnership,English,en,Limited Liability Partnership,limited liability partnership;LLP;Limited Liability Partnership,,11/30/17,ACTV,,,,
+5SGV,Singapore,SG,,,sg,Limited Liability Partnership,English,en,Limited Liability Partnership,Limited Liability Partnership;L.L.P.;LLP,,11/30/17,ACTV,,,,
 KEMH,Singapore,SG,,,sg,Company (Foreign Branch),English,en,Company (Foreign Branch),,,11/30/17,ACTV,,,,
-LWXI,Singapore,SG,,,sg,Company (Local),English,en,Company (Local),Pte Ltd;Ltd;Limited,,11/30/17,ACTV,,,,
+LWXI,Singapore,SG,,,sg,Company (Local),English,en,Company (Local),Private Limited;Pte. Ltd.;Pte Ltd;Sendirian Berhad;Sdn. Bhd.;Sdn Bhd;Ltd.;Ltd;Limited;Berhad;Bhd.;Bhd;,,11/30/17,ACTV,,,,
 14NU,Slovakia,SK,,,sk,Rozpočtové a príspevkové organizácie,Slovak,sk,Rozpočtové a príspevkové organizácie,,,11/30/17,ACTV,,,,
 189Q,Slovakia,SK,,,sk,Špecializovaná organizačná jednotka ČSD,Slovak,sk,Špecializovaná organizačná jednotka ČSD,Špec.org.jednotka ČSD,,11/30/17,ACTV,,,,
 1CSW,Slovakia,SK,,,sk,Obecný podnik,Slovak,sk,Obecný podnik,,,11/30/17,ACTV,,,,
@@ -2108,6 +2114,13 @@ YRGM,Switzerland,CH,,,ch,District administration,English,en,District administrat
 YRGM,Switzerland,CH,,,ch,Administration du district,French,fr,Administration du district,District,,11/30/17,ACTV,,,,
 YRGM,Switzerland,CH,,,ch,Verwaltung des Bezirks,German,de,Verwaltung des Bezirks,Bezirk,,11/30/17,ACTV,,,,
 YRGM,Switzerland,CH,,,ch,Amministrazione del distretto,Italian,it,Amministrazione del distretto,Distretto,,11/30/17,ACTV,,,,
+,,TH,,,th,บริษัทมหาชนจำกัด,Thai,th,Bris̄ʹạthmh̄āchncảkạd,จำกัด (มหาชน);บริษัท,,,,,,,"plc (UK), public limited company"
+,,TH,,,th,Public Company Limited,English,en,Public Co Limited; Public Co. Limited;Public Co. Ltd.; Public Co Ltd,,,,,,,,
+,,TH,,,th,บริษัทเอกชนจำกัด,Thai,th,bris̄ʹạth xekchn cảkạd,จำกัด;บริษัท,,,,,,,"Ltd. (UK), limited company"
+,,TH,,,th,Company Limited,English,en,,Co. Limited;Co Limited;Co. Ltd.;Co Ltd;Company Ltd.;Company Ltd,,,,,,,
+,,TH,,,th,ห้างหุ้นส่วนจำกัด,Thai,th,h̄̂āngh̄ûns̄̀wncảkạd,จำกัด;ห้างหุ้นส่วน,,,,,,,limited partnership
+,,TH,,,th,Limited Partnership,English,en,Limited Partnership,L.P.;LP;Ltd. Partnership;Ltd Partnership,,,,,,,
+,,TH,,,th,ห้างหุ้นส่วนสามัญนิติบุคคล,Thai,th,h̄̂āngh̄ûns̄̀wns̄āmạỵ nitibukhkhl,ห้างหุ้นส่วน,,,,,,,general partnership
 5T3H,Turkey,TR,,,tr,Fonlar,Turkish,tr,Fonlar,,,7/5/19,ACTV,,,,
 JMQU,Turkey,TR,,,tr,kollektif şirket,Turkish,tr,kollektif şirket,Koll.Şti.,,11/30/17,ACTV,,,,
 ONVA,Turkey,TR,,,tr,komandit şirket,Turkish,tr,komandit şirket,Kom.Şti,,11/30/17,ACTV,,,,
@@ -2415,7 +2428,7 @@ DQMV,United States of America,US,Virginia,US-VA,us_va,Limited Partnership,Englis
 HOV4,United States of America,US,Virginia,US-VA,us_va,Stock Corporation,English,en,Stock Corporation,,,7/5/19,ACTV,,,,
 PLMC,United States of America,US,Virginia,US-VA,us_va,Nonstock Corporation,English,en,Nonstock Corporation,,,7/5/19,ACTV,,,,
 74LJ,United States of America,US,Washington D.C.,US-DC,us_dc,Limited Partnership (including Limited Liability Limited Partnership),English,en,Limited Partnership (including Limited Liability Limited Partnership),L.L.L.P.;LLLP;R.L.L.L.P.;RLLLP,,11/30/17,ACTV,,,,
-CNQ3,United States of America,US,Washington D.C.,US-DC,us_dc,Business Corporation (including professional corporation),English,en,Business Corporation (including professional corporation),Corp.;Inc.;Co.;Ltd.;P.C.;Chtd,,11/30/17,ACTV,,,,
+CNQ3,United States of America,US,Washington D.C.,US-DC,us_dc,Business Corporation (including professional corporation),English,en,Business Corporation (including professional corporation),Corp.;Inc.;Co.;Ltd.;Ltd;P.C.;Chtd,,11/30/17,ACTV,,,,
 IPGV,United States of America,US,Washington D.C.,US-DC,us_dc,Limited Cooperative Association,English,en,Limited Cooperative Association,L.C.A.;LCA;Co-op.;Coop.;Co-op;Coop;Assoc.;Assoc;Assn.;Assn,,11/30/17,ACTV,,,,
 O35K,United States of America,US,Washington D.C.,US-DC,us_dc,General Cooperative Association,English,en,General Cooperative Association,Co-op;Coop;Assoc.;Assoc;Assn.;Assn,,11/30/17,ACTV,,,,
 SQOE,United States of America,US,Washington D.C.,US-DC,us_dc,Statutory Trust,English,en,Statutory Trust,,,11/30/17,ACTV,,,,
