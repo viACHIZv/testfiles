@@ -60,6 +60,13 @@ NNLI,Austria,AT,,,at,stille Gesellschaft,German,de,stille Gesellschaft,stGes;stG
 O65B,Austria,AT,,,at,Europäische Gesellschaft (SE),German,de,Europäische Gesellschaft (SE),SE,,11/30/17,ACTV,,,,Societas Europaea
 ONF1,Austria,AT,,,at,Kommanditgesellschaft,German,de,Kommanditgesellschaft,KG;GmbH & Co. KG,,11/30/17,ACTV,,,,≈ limited partnership
 UI81,Austria,AT,,,at,Gesellschaft des bürgerlichen Rechts,German,de,Gesellschaft bürgerlichen Rechts,GesbR,,7/5/19,ACTV,,,,"≈ partnership by contract (i.e., formed by partnership agreement); statutes and regulations concerning Austrian companies, especially with regards to the companies register (Firmenbuch), do not apply."
+,,AZ,,,az,Məhdud Məsuliyyətli Cəmiyyəti,Azerbaijani,az,,MƏHDUD MƏSULİYYƏTLİ CƏMİYYƏT,,,,,,,limited liability company
+,,AZ,,,az,Açıq səhmdar cəmiyyəti,Azerbaijani,az,,,,,,,,,Open Joint Stock Company
+,,AZ,,,az,Qapalı səhmdar cəmiyyəti,Azerbaijani,az,,,,,,,,,Closed Joint-Stock Company
+,,AZ,,,az,Kooperativ,Azerbaijani,az,,MƏNZİL-TİKİNTİ KOOPERATİVİ;MƏNZİL TİKİNTİ KOOPERATİVİ;MÜSTƏQİL KOOPERATİVİ;KOOPERATİVİ;HEYVANDARLIQ-SÜDÇÜLÜK KOOPERATİVİ;KƏND TƏSƏRRÜFATI MƏHSULLARI İSTEHSAL İSTEHLAK KOOPERATİVİ;MƏNZİL-İSTİSMAR KOOPERATİVİ,,,,,,,
+,,AZ,,,az,Digər kommersiya təşkilatı,Azerbaijani,az,,FƏRDİ ŞİRKƏTİ;ŞİRKƏTİ;FİRMASI;TƏMİR TİKİNTİ QURAŞDIRMA MÜƏSİSƏSİ;MÜƏSSİSƏSİ,,,,,,,Other commercial organization
+,,AZ,,,az,Nümayəndəlik,Azerbaijani,az,,MMC-NİN AZƏRBAYCAN RESPUBLİKASINDAKI NÜMAYƏNDƏLİYİ;IN AZƏRBAYCAN RESPUBLİKASINDAKI NÜMAYƏNDƏLİYİ;AZƏRBAYCAN RESPUBLİKASINDAKI NÜMAYƏNDƏLİYİ,,,,,,,Representation
+,,AZ,,,az,Filial,Azerbaijani,az,,"ŞİRKƏTİNİN AZƏRBAYCAN RESPUBLİKASINDAKI FİLİALI;MƏHDUD MƏSULİYYƏTLİ CƏMİYYƏTİNİN AZƏRBAYCAN RESPUBLİKASINDAKI FİLİALI;ŞİRKETİ""NİN AZƏRBAYCAN RESPUBLİKASINDAKI FİLİALI;NİN AZƏRBAYCAN RESPUBLİKASINDAKI FİLİALI;ŞİRKETİNİN AZƏRBAYCAN RESPUBLİKASINDAKI FİLİALI;AZƏRBAYCAN RESPUBLİKASINDAKI FİLİALI",,,,,,,Branch
 1TX8,Belgium,BE,,,be,Commanditaire vennootschap op aandelen met een sociaal oogmerk,Dutch,nl,Commanditaire vennootschap op aandelen met een sociaal oogmerk,CVA SO,,11/30/17,ACTV,legislation change,7/5/19,"after 1 May 2019, this legal form is no longer used for new entities; it still exists for entities established before that date",
 1TX8,Belgium,BE,,,be,Société en commandite par actions à finalité sociale,French,fr,Société en commandite par actions à finalité sociale,SCA FS,,11/30/17,ACTV,legislation change,7/5/19,"after 1 May 2019, this legal form is no longer used for new entities; it still exists for entities established before that date",
 1TX8,Belgium,BE,,,be,Kommanditgesellschaft auf Aktien mit sozialer Zielsetzung,German,de,Kommanditgesellschaft auf Aktien mit sozialer Zielsetzung,KGaAmsZ,,11/30/17,ACTV,legislation change,7/5/19,"after 1 May 2019, this legal form is no longer used for new entities; it still exists for entities established before that date",
@@ -136,7 +143,7 @@ MQH3,Belgium,BE,,,be,Commanditaire vennootschap,Dutch,nl,Commanditaire vennootsc
 MQH3,Belgium,BE,,,be,Société en commandite,French,fr,Société en commandite,SComm,,7/5/19,ACTV,,,new legal form per 1 May 2019,
 MQH3,Belgium,BE,,,be,Kommanditgesellschaft,German,de,Kommanditgesellschaft,KommG,,7/5/19,ACTV,,,new legal form per 1 May 2019,
 N5NT,Belgium,BE,,,be,Besloten vennootschap met beperkte aansprakelijkheid,Dutch,nl,Besloten vennootschap met beperkte aansprakelijkheid,BVBA,,11/30/17,ACTV,legislation change,7/5/19,"after 1 May 2019, this legal form is no longer used for new entities; it still exists for entities established before that date",
-N5NT,Belgium,BE,,,be,Société privée à responsabilité limitée,French,fr,Société privée à responsabilité limitée,SPRL,,11/30/17,ACTV,legislation change,7/5/19,"after 1 May 2019, this legal form is no longer used for new entities; it still exists for entities established before that date",private limited liability company
+N5NT,Belgium,BE,,,be,Société privée à responsabilité limitée,French,fr,Société privée à responsabilité limitée,SPRL;s.p.r.l.,,11/30/17,ACTV,legislation change,7/5/19,"after 1 May 2019, this legal form is no longer used for new entities; it still exists for entities established before that date",private limited liability company
 N5NT,Belgium,BE,,,be,Privatgesellschaft mit beschränkter Haftung,German,de,Privatgesellschaft mit beschränkter Haftung,PGmbH,,11/30/17,ACTV,legislation change,7/5/19,"after 1 May 2019, this legal form is no longer used for new entities; it still exists for entities established before that date",
 O59C,Belgium,BE,,,be,Economisch samenwerkingsverband met een sociaal oogmerk,Dutch,nl,Economisch samenwerkingsverband met een sociaal oogmerk,ESV SO,,11/30/17,ACTV,legislation change,7/5/19,"after 1 May 2019, this legal form is no longer used for new entities; it still exists for entities established before that date",
 O59C,Belgium,BE,,,be,Groupement d'intérêt économique à finalité sociale,French,fr,Groupement d'intérêt économique à finalité sociale,GIE FS,,11/30/17,ACTV,legislation change,7/5/19,"after 1 May 2019, this legal form is no longer used for new entities; it still exists for entities established before that date",
@@ -323,7 +330,7 @@ GM04,Canada,CA,Manitoba,CA-MB,ca_mb,Cooperative,English,en,Cooperative,Cooperati
 HBCT,Canada,CA,Manitoba,CA-MB,ca_mb,Ukrainian Catholic Parish,English,en,Ukrainian Catholic Parish,The Ukrainian Catholic Parish of;La Paroisse catholique ukrainienne de,,11/30/17,ACTV,,,,
 LV28,Canada,CA,Manitoba,CA-MB,ca_mb,Condominium Corporation,English,en,Condominium Corporation,Condominium Corporation,,11/30/17,ACTV,,,,
 MXLT,Canada,CA,Manitoba,CA-MB,ca_mb,Sole Proprietorship,English,en,Sole Proprietorship,,,11/30/17,ACTV,,,,
-OPRT,Canada,CA,Manitoba,CA-MB,ca_mb,Limited Partnership,English,en,Limited Partnership,Limited Partnership;LP;SOCIETE EN COMMANDITE;limited partnership,,11/30/17,ACTV,,,,
+OPRT,Canada,CA,Manitoba,CA-MB,ca_mb,Limited Partnership,English,en,Limited Partnership,LP;L.P.;L. P.;SOCIETE EN COMMANDITE,,11/30/17,ACTV,,,,
 RBBY,Canada,CA,Manitoba,CA-MB,ca_mb,Partnership,English,en,Partnership,,,11/30/17,ACTV,,,,
 SS1V,Canada,CA,Manitoba,CA-MB,ca_mb,registration of extra-provincial corporations,English,en,registration of extra-provincial corporations,,,11/30/17,ACTV,,,,
 Y485,Canada,CA,Manitoba,CA-MB,ca_mb,Credit union,English,en,Credit union or Caisse Populaire,credit union Limited;credit union Ltd;caisse populaire limitée;caisee populaire ltée,,11/30/17,ACTV,,,,
@@ -360,7 +367,7 @@ TSQ7,Canada,CA,New Brunswick,CA-NB,ca_nb,association de foires agricoles,French,
 WI0P,Canada,CA,New Brunswick,CA-NB,ca_nb,société agricole,French,fr,société agricole,,,11/30/17,ACTV,,,,
 ZACY,Canada,CA,New Brunswick,CA-NB,ca_nb,trust company,English,en,trust company,Trust Corporation;Trust Corp.;Trust Company;Trust Co.;Trustco;Trustee Corporation;Trustee Corp.;Trustee Company,,11/30/17,ACTV,,,,
 ZY4E,Canada,CA,New Brunswick,CA-NB,ca_nb,appellation commerciale - propriétaire unique,French,fr,appellation commerciale - propriétaire unique,,,11/30/17,ACTV,,,,
-1E9M,Canada,CA,Newfoundland and Labrador,CA-NL,ca_nl,Limited Partnership,English,en,Limited Partnership,LP;limited partnership;Limited Partnership,,11/30/17,ACTV,,,,
+1E9M,Canada,CA,Newfoundland and Labrador,CA-NL,ca_nl,Limited Partnership,English,en,Limited Partnership,LP;L.P.,,11/30/17,ACTV,,,,
 3Y5V,Canada,CA,Newfoundland and Labrador,CA-NL,ca_nl,co-operatives,English,en,co-operatives,Co-operative;Coopérative,,11/30/17,ACTV,,,,
 ASWX,Canada,CA,Newfoundland and Labrador,CA-NL,ca_nl,share corporations,English,en,share corporations,Limited;Limitee;Incorporated;Incorporee;Corporation;Ltd.;Ltee.;Inc.;Corp.;Ltd,,11/30/17,ACTV,,,,
 EBYQ,Canada,CA,Newfoundland and Labrador,CA-NL,ca_nl,Credit Union,English,en,Credit Union,credit union Limited;credit union Ltd;credit union Ltd.;caisse populaire limitée;caisee populaire ltée,,11/30/17,ACTV,,,,
@@ -388,7 +395,7 @@ W126,Canada,CA,Northwest Territories,CA-NT,ca_nt,private act not-for-profit corp
 9XHE,Canada,CA,Nova Scotia,CA-NS,ca_ns,business names,English,en,business names,,,11/30/17,ACTV,,,,
 FQJ9,Canada,CA,Nova Scotia,CA-NS,ca_ns,for profit and not-for profit co-operatives,English,en,for profit and not-for profit co-operatives,Co-operative and Limited;Ltd.;Co-opérative and Limitée;Ltée,,11/30/17,ACTV,,,,
 GG0S,Canada,CA,Nova Scotia,CA-NS,ca_ns,company limited by guarantee,English,en,company limited by guarantee,limited company and limited by guarantee;Limited;Limitée;Ltd.;Ltée;Incorporated;Inc.;Ltd,,11/30/17,ACTV,,,,
-T0CV,Canada,CA,Nova Scotia,CA-NS,ca_ns,limited partnerships formed in NS,English,en,limited partnerships formed in NS,Limited Partnership,,11/30/17,ACTV,,,,
+T0CV,Canada,CA,Nova Scotia,CA-NS,ca_ns,limited partnerships formed in NS,English,en,limited partnerships formed in NS,LP;L.P.;L. P.,,11/30/17,ACTV,,,,
 TY0S,Canada,CA,Nova Scotia,CA-NS,ca_ns,A company formed under the Companies Act may seek designation as a Private Investment Holding Company,English,en,A company formed under the Companies Act may seek designation as a Private Investment Holding Company,Limited;Limitée;Ltd.;Ltée;Incorporated;Inc.;Ltd,,11/30/17,ACTV,,,,
 ULJ1,Canada,CA,Nova Scotia,CA-NS,ca_ns,company limited by shares (limited company),English,en,company limited by shares (limited company),limited company;limited by guarantee;Limited;Limitée;Ltd.;Ltée;Incorporated;Inc.;Ltd,,11/30/17,ACTV,,,,
 W8XG,Canada,CA,Nova Scotia,CA-NS,ca_ns,sole proprietors,English,en,sole proprietors,,,11/30/17,ACTV,,,,
@@ -405,17 +412,18 @@ HQKE,Canada,CA,Ontario,CA-ON,ca_on,general partnership,English,en,general partne
 O90R,Canada,CA,Ontario,CA-ON,ca_on,Business corporations (which includes professional corporations),English,en,Business corporations (which includes professional corporations),,,11/30/17,ACTV,,,,
 PCO0,Canada,CA,Ontario,CA-ON,ca_on,Limited Liability Partnership,English,en,Limited Liability Partnership,,,11/30/17,ACTV,,,,
 10UR,Canada,CA,Québec,CA-QC,ca_qc,Syndicat coopératif,French,fr,Syndicat coopératif,,,11/30/17,ACTV,,,,
-2U3G,Canada,CA,Québec,CA-QC,ca_qc,Société en nom collectif à responsabilité limitée,French,fr,Société en nom collectif à responsabilité limitée,S.E.N.C.R.L.,,11/30/17,ACTV,,,,
-814Y,Canada,CA,Québec,CA-QC,ca_qc,Société en participation,French,fr,Société en participation,,,11/30/17,ACTV,,,,
-A7KA,Canada,CA,Québec,CA-QC,ca_qc,Selon la loi par Loi spéciale du Québec à caractère public,French,fr,Selon la loi par Loi spéciale du Québec à caractère public,,,11/30/17,ACTV,,,,
-CT3J,Canada,CA,Québec,CA-QC,ca_qc,"Personne morale sans but lucratif par Loi sur les compagnies (Partie II et Partie III), Code des professions, Loi concernant le regroupement et la gestion des commissions scolaires , Loi sur l’aménagement et l’urbanisme, Loi sur l’instruction publique, Loi sur l’organisation municipale de certains territoires, Loi sur la conservation de la faune, Loi sur la conservation et la mise en valeur de la faune, Loi sur la constitution de certaines Églises, Loi sur la Fédération des guides catholiques du Québec , Loi sur la Fédération des scouts catholiques du Québec , Loi sur la formation et la qualification professionnelles de la main-d’œuvre, Loi sur la mise en marché des produits agricoles, alimentaires et de la pêche, Loi sur la mise en marché des produits agricoles, Loi sur la probation et sur les établissements de détention, Loi sur la santé et la sécurité du travail, Loi sur la Société d’habitation du Québec, Loi sur la société Saint-Jean-Baptiste de Trois-Rivières, Loi sur la société Saint-Jean-Baptiste du Québec, Loi sur les associations coopératives, Loi sur les assurances, Loi sur les cercles agricoles, Loi sur les Chevaliers de Colomb de la province de Québec, Loi sur les cités et villes, Loi sur les clubs de chasse et de pêche, Loi sur les clubs de récréation, Loi sur les collèges d'enseignement général et professionnel, Loi sur les compagnies de cimetière, Loi sur les compagnies de cimetières catholiques romains, Loi sur les corporations de fonds de sécurité, Loi sur les corporations religieuses, Loi sur les décrets de convention collective, Loi sur les évêques catholiques romains, Loi sur les fabriques, Loi sur les services correctionnels, Loi sur les services de santé et les services sociaux pour les autochtones cris, Loi sur les services de santé et les services sociaux, Loi sur les sociétés agricoles et laitières, Loi sur les sociétés d'agriculture, Loi sur les sociétés d'horticulture, Loi sur les sociétés nationales de bienfaisance, Loi sur les syndicats professionnels, Loi sur les villages miniers, Loi sur les villages nordiques et l’Administration régionale Kativik, Loi sur les villes minières, Loi sur l'organisation territoriale municipale, Loi sur les sociétés préventives de cruauté envers les animaux",French,fr,"Personne morale sans but lucratif par Loi sur les compagnies (Partie II et Partie III), Code des professions, Loi concernant le regroupement et la gestion des commissions scolaires , Loi sur l’aménagement et l’urbanisme, Loi sur l’instruction publique, Loi sur l’organisation municipale de certains territoires, Loi sur la conservation de la faune, Loi sur la conservation et la mise en valeur de la faune, Loi sur la constitution de certaines Églises, Loi sur la Fédération des guides catholiques du Québec , Loi sur la Fédération des scouts catholiques du Québec , Loi sur la formation et la qualification professionnelles de la main-d’œuvre, Loi sur la mise en marché des produits agricoles, alimentaires et de la pêche, Loi sur la mise en marché des produits agricoles, Loi sur la probation et sur les établissements de détention, Loi sur la santé et la sécurité du travail, Loi sur la Société d’habitation du Québec, Loi sur la société Saint-Jean-Baptiste de Trois-Rivières, Loi sur la société Saint-Jean-Baptiste du Québec, Loi sur les associations coopératives, Loi sur les assurances, Loi sur les cercles agricoles, Loi sur les Chevaliers de Colomb de la province de Québec, Loi sur les cités et villes, Loi sur les clubs de chasse et de pêche, Loi sur les clubs de récréation, Loi sur les collèges d'enseignement général et professionnel, Loi sur les compagnies de cimetière, Loi sur les compagnies de cimetières catholiques romains, Loi sur les corporations de fonds de sécurité, Loi sur les corporations religieuses, Loi sur les décrets de convention collective, Loi sur les évêques catholiques romains, Loi sur les fabriques, Loi sur les services correctionnels, Loi sur les services de santé et les services sociaux pour les autochtones cris, Loi sur les services de santé et les services sociaux, Loi sur les sociétés agricoles et laitières, Loi sur les sociétés d'agriculture, Loi sur les sociétés d'horticulture, Loi sur les sociétés nationales de bienfaisance, Loi sur les syndicats professionnels, Loi sur les villages miniers, Loi sur les villages nordiques et l’Administration régionale Kativik, Loi sur les villes minières, Loi sur l'organisation territoriale municipale, Loi sur les sociétés préventives de cruauté envers les animaux",,,11/30/17,ACTV,,,,
-JVMD,Canada,CA,Québec,CA-QC,ca_qc,"Société par actions par Fonds mutuel constitué par acte de fiducie, Loi sur les assurances, Loi sur les compagnies de fidéicommis, Loi sur les compagnies de flottage, Loi sur les compagnies de gaz, d’eau et d’électricité, Loi sur les compagnies de télégraphe et de téléphone, Loi sur les compagnies minières, Loi sur les sociétés de construction, Loi sur les sociétés de développement de l'entreprise québécoise, Loi sur les sociétés de fiducie et les sociétés d'épargne, Loi sur les sociétés de patrons de fabriques de producteurs laitiers, Loi sur les sociétés d'entraide économique, Loi sur les sociétés d'exploration minière, Loi sur les syndicats d'élevage",French,fr,"Société par actions par Fonds mutuel constitué par acte de fiducie, Loi sur les assurances, Loi sur les compagnies de fidéicommis, Loi sur les compagnies de flottage, Loi sur les compagnies de gaz, d’eau et d’électricité, Loi sur les compagnies de télégraphe et de téléphone, Loi sur les compagnies minières, Loi sur les sociétés de construction, Loi sur les sociétés de développement de l'entreprise québécoise, Loi sur les sociétés de fiducie et les sociétés d'épargne, Loi sur les sociétés de patrons de fabriques de producteurs laitiers, Loi sur les sociétés d'entraide économique, Loi sur les sociétés d'exploration minière, Loi sur les syndicats d'élevage",,,11/30/17,ACTV,,,,
-QB2W,Canada,CA,Québec,CA-QC,ca_qc,Coopérative,French,fr,Coopérative,coopérative;coopératif;coopération;coop,cooperative;cooperation;coop,11/30/17,ACTV,,,,
-RQIC,Canada,CA,Québec,CA-QC,ca_qc,Société en commandite,French,fr,Société en commandite,S.E.C.,,11/30/17,ACTV,,,,
-T1LR,Canada,CA,Québec,CA-QC,ca_qc,Syndicat de copropriété,French,fr,Syndicat de copropriété,,,11/30/17,ACTV,,,,
-TWLR,Canada,CA,Québec,CA-QC,ca_qc,Association,French,fr,Association,,,11/30/17,ACTV,,,,
-UG3Z,Canada,CA,Québec,CA-QC,ca_qc,Société par actions par Loi sur les sociétés par actions,French,fr,Société par actions par Loi sur les sociétés par actions,s.a.;ltée;inc.,corp.;ltd;inc.,11/30/17,ACTV,,,,
-YRUJ,Canada,CA,Québec,CA-QC,ca_qc,Société en nom collectif,French,fr,Société en nom collectif,S.E.N.C.,,11/30/17,ACTV,,,,
+2U3G,Canada,CA,Québec,CA-QC,ca_qc,Société en nom collectif à responsabilité limitée,French,fr,Société en nom collectif à responsabilité limitée,S.E.N.C.R.L.,,11/30/17,ACTV,,,,General partnership with limited liability
+814Y,Canada,CA,Québec,CA-QC,ca_qc,Société en participation,French,fr,Société en participation,S.E.P.;SEP,,11/30/17,ACTV,,,,Joint Venture (Undeclared partnership)
+A7KA,Canada,CA,Québec,CA-QC,,Selon la loi par Loi spéciale du Québec à caractère public,French,fr,Selon la loi par Loi spéciale du Québec à caractère public,,,11/30/17,ACTV,,,,
+CT3J,Canada,CA,Québec,CA-QC,,"Personne morale sans but lucratif par Loi sur les compagnies (Partie II et Partie III), Code des professions, Loi concernant le regroupement et la gestion des commissions scolaires , Loi sur l’aménagement et l’urbanisme, Loi sur l’instruction publique, Loi sur l’organisation municipale de certains territoires, Loi sur la conservation de la faune, Loi sur la conservation et la mise en valeur de la faune, Loi sur la constitution de certaines Églises, Loi sur la Fédération des guides catholiques du Québec , Loi sur la Fédération des scouts catholiques du Québec , Loi sur la formation et la qualification professionnelles de la main-d’œuvre, Loi sur la mise en marché des produits agricoles, alimentaires et de la pêche, Loi sur la mise en marché des produits agricoles, Loi sur la probation et sur les établissements de détention, Loi sur la santé et la sécurité du travail, Loi sur la Société d’habitation du Québec, Loi sur la société Saint-Jean-Baptiste de Trois-Rivières, Loi sur la société Saint-Jean-Baptiste du Québec, Loi sur les associations coopératives, Loi sur les assurances, Loi sur les cercles agricoles, Loi sur les Chevaliers de Colomb de la province de Québec, Loi sur les cités et villes, Loi sur les clubs de chasse et de pêche, Loi sur les clubs de récréation, Loi sur les collèges d'enseignement général et professionnel, Loi sur les compagnies de cimetière, Loi sur les compagnies de cimetières catholiques romains, Loi sur les corporations de fonds de sécurité, Loi sur les corporations religieuses, Loi sur les décrets de convention collective, Loi sur les évêques catholiques romains, Loi sur les fabriques, Loi sur les services correctionnels, Loi sur les services de santé et les services sociaux pour les autochtones cris, Loi sur les services de santé et les services sociaux, Loi sur les sociétés agricoles et laitières, Loi sur les sociétés d'agriculture, Loi sur les sociétés d'horticulture, Loi sur les sociétés nationales de bienfaisance, Loi sur les syndicats professionnels, Loi sur les villages miniers, Loi sur les villages nordiques et l’Administration régionale Kativik, Loi sur les villes minières, Loi sur l'organisation territoriale municipale, Loi sur les sociétés préventives de cruauté envers les animaux",French,fr,"Personne morale sans but lucratif par Loi sur les compagnies (Partie II et Partie III), Code des professions, Loi concernant le regroupement et la gestion des commissions scolaires , Loi sur l’aménagement et l’urbanisme, Loi sur l’instruction publique, Loi sur l’organisation municipale de certains territoires, Loi sur la conservation de la faune, Loi sur la conservation et la mise en valeur de la faune, Loi sur la constitution de certaines Églises, Loi sur la Fédération des guides catholiques du Québec , Loi sur la Fédération des scouts catholiques du Québec , Loi sur la formation et la qualification professionnelles de la main-d’œuvre, Loi sur la mise en marché des produits agricoles, alimentaires et de la pêche, Loi sur la mise en marché des produits agricoles, Loi sur la probation et sur les établissements de détention, Loi sur la santé et la sécurité du travail, Loi sur la Société d’habitation du Québec, Loi sur la société Saint-Jean-Baptiste de Trois-Rivières, Loi sur la société Saint-Jean-Baptiste du Québec, Loi sur les associations coopératives, Loi sur les assurances, Loi sur les cercles agricoles, Loi sur les Chevaliers de Colomb de la province de Québec, Loi sur les cités et villes, Loi sur les clubs de chasse et de pêche, Loi sur les clubs de récréation, Loi sur les collèges d'enseignement général et professionnel, Loi sur les compagnies de cimetière, Loi sur les compagnies de cimetières catholiques romains, Loi sur les corporations de fonds de sécurité, Loi sur les corporations religieuses, Loi sur les décrets de convention collective, Loi sur les évêques catholiques romains, Loi sur les fabriques, Loi sur les services correctionnels, Loi sur les services de santé et les services sociaux pour les autochtones cris, Loi sur les services de santé et les services sociaux, Loi sur les sociétés agricoles et laitières, Loi sur les sociétés d'agriculture, Loi sur les sociétés d'horticulture, Loi sur les sociétés nationales de bienfaisance, Loi sur les syndicats professionnels, Loi sur les villages miniers, Loi sur les villages nordiques et l’Administration régionale Kativik, Loi sur les villes minières, Loi sur l'organisation territoriale municipale, Loi sur les sociétés préventives de cruauté envers les animaux",,,11/30/17,ACTV,,,,
+,Canada,CA,Québec,CA-QC,ca_qc,Personne morale sans but lucratif,French,fr,,PMSBL,,,,,,,Non-profit legal person
+JVMD,Canada,CA,Québec,CA-QC,,"Société par actions par Fonds mutuel constitué par acte de fiducie, Loi sur les assurances, Loi sur les compagnies de fidéicommis, Loi sur les compagnies de flottage, Loi sur les compagnies de gaz, d’eau et d’électricité, Loi sur les compagnies de télégraphe et de téléphone, Loi sur les compagnies minières, Loi sur les sociétés de construction, Loi sur les sociétés de développement de l'entreprise québécoise, Loi sur les sociétés de fiducie et les sociétés d'épargne, Loi sur les sociétés de patrons de fabriques de producteurs laitiers, Loi sur les sociétés d'entraide économique, Loi sur les sociétés d'exploration minière, Loi sur les syndicats d'élevage",French,fr,"Société par actions par Fonds mutuel constitué par acte de fiducie, Loi sur les assurances, Loi sur les compagnies de fidéicommis, Loi sur les compagnies de flottage, Loi sur les compagnies de gaz, d’eau et d’électricité, Loi sur les compagnies de télégraphe et de téléphone, Loi sur les compagnies minières, Loi sur les sociétés de construction, Loi sur les sociétés de développement de l'entreprise québécoise, Loi sur les sociétés de fiducie et les sociétés d'épargne, Loi sur les sociétés de patrons de fabriques de producteurs laitiers, Loi sur les sociétés d'entraide économique, Loi sur les sociétés d'exploration minière, Loi sur les syndicats d'élevage",,,11/30/17,ACTV,,,,
+QB2W,Canada,CA,Québec,CA-QC,ca_qc,Coopérative,French,fr,Coopérative,coopérative;coopératif;coopération;coop;cop,,11/30/17,ACTV,,,,Cooperative
+RQIC,Canada,CA,Québec,CA-QC,ca_qc,Société en commandite,French,fr,Société en commandite,S.E.C.;SEC,,11/30/17,ACTV,,,,Limited partnership
+T1LR,Canada,CA,Québec,CA-QC,ca_qc,Syndicat de copropriété,French,fr,Syndicat de copropriété,S.Y.C.;SYC,,11/30/17,ACTV,,,,Syndicate of co-ownership
+TWLR,Canada,CA,Québec,CA-QC,ca_qc,Association,French,fr,Association,ASS,,11/30/17,ACTV,,,,Association
+UG3Z,Canada,CA,Québec,CA-QC,ca_qc,Société par actions ou compagnie,French,fr,Société par actions ou compagnie,s.a.;sa;ltée;inc.,corp.;ltd;inc.,11/30/17,ACTV,,,,Business corporation
+YRUJ,Canada,CA,Québec,CA-QC,ca_qc,Société en nom collectif,French,fr,Société en nom collectif,S.E.N.C.;SENC,,11/30/17,ACTV,,,,General partnership
 Z6MF,Canada,CA,Québec,CA-QC,ca_qc,Selon la loi par Loi spéciale du Québec à caractère privé,French,fr,Selon la loi par Loi spéciale du Québec à caractère privé,,,11/30/17,ACTV,,,,
 3OVJ,Canada,CA,Saskatchewan,CA-SK,ca_sk,Non-profit Corporations,English,en,Non-profit Corporations,Inc.;Corp.,,11/30/17,ACTV,,,,
 5D9I,Canada,CA,Saskatchewan,CA-SK,ca_sk,Limited Liabilty Partnerships,English,en,Limited Liabilty Partnerships,,,11/30/17,ACTV,,,,
@@ -785,278 +793,278 @@ Z38E,Finland,FI,,,fi,Säästöpankki,Finnish,fi,Säästöpankki,,,7/5/19,ACTV,,,
 Z38E,Finland,FI,,,,Sparbank,Swedish,sv,Sparbank,,,7/5/19,ACTV,,,,
 ZMTL,Finland,FI,,,fi,Kuolinpesä,Finnish,fi,Kuolinpesä,,,7/5/19,ACTV,,,,
 ZMTL,Finland,FI,,,fi,Dödsbo,Swedish,sv,Dödsbo,,,7/5/19,ACTV,,,,
-157O,France,FR,,,fr,Régie d'une collectivité locale à caractére administratif,French,fr,Régie d'une collectivité locale à caractére administratif,,,11/30/17,ACTV,,,,
-1B88,France,FR,,,fr,SCP de médecins,French,fr,SCP de médecins,,,11/30/17,ACTV,,,,
-1GNM,France,FR,,,fr,Syndicat de salariés,French,fr,Syndicat de salariés,,,11/30/17,ACTV,,,,
-1L24,France,FR,,,fr,Autre société civile,French,fr,Autre société civile,,,11/30/17,ACTV,,,,
-1NF1,France,FR,,,fr,SA nationale à conseil d'administration,French,fr,SA nationale à conseil d'administration,,,11/30/17,ACTV,,,,
-1Q16,France,FR,,,fr,Société créée de fait entre personnes physiques,French,fr,Société créée de fait entre personnes physiques,,,11/30/17,ACTV,,,,
-1Y0C,France,FR,,,fr,SARL d'attribution,French,fr,SARL d'attribution,,,11/30/17,ACTV,,,,
-211B,France,FR,,,fr,Société coopérative agricole,French,fr,Société coopérative agricole,,,11/30/17,ACTV,,,,
-29FA,France,FR,,,fr,Institution interrégionale ou entente,French,fr,Institution interrégionale ou entente,,,11/30/17,ACTV,,,,
-2N4L,France,FR,,,fr,(Autre) Collectivité territoriale,French,fr,(Autre) Collectivité territoriale,,,11/30/17,ACTV,,,,
-2NL6,France,FR,,,fr,"État, collectivité ou établissement public étranger",French,fr,"État, collectivité ou établissement public étranger",,,11/30/17,ACTV,,,,
-2ONM,France,FR,,,fr,SA d'attribution à directoire,French,fr,SA d'attribution à directoire,,,11/30/17,ACTV,,,,
-2WMP,France,FR,,,fr,Autre personne morale de droit administratif,French,fr,Autre personne morale de droit administratif,,,11/30/17,ACTV,,,,
-2XIK,France,FR,,,fr,Mutuelle,French,fr,Mutuelle,,,11/30/17,ACTV,,,,
-34QS,France,FR,,,fr,Autre personne morale de droit privé,French,fr,Autre personne morale de droit privé,,,11/30/17,ACTV,,,,
-3AZY,France,FR,,,fr,Coopérative d'utilisation de matériel agricole en commun (CUMA),French,fr,Coopérative d'utilisation de matériel agricole en commun (CUMA),,,11/30/17,ACTV,,,,
-3FCU,France,FR,,,fr,Société d'exercice libéral par action simplifiée,French,fr,Société d'exercice libéral par action simplifiée,,,11/30/17,ACTV,,,,
-3NJL,France,FR,,,fr,Autre personne de droit privé inscrite au registre du commerce et des sociétés,French,fr,Autre personne de droit privé inscrite au registre du commerce et des sociétés,,,11/30/17,ACTV,,,,
-3OK3,France,FR,,,fr,SCP de notaires,French,fr,SCP de notaires,,,11/30/17,ACTV,,,,
-3S6E,France,FR,,,fr,Service départemental d'incendie et de secours (SDIS),French,fr,Service départemental d'incendie et de secours (SDIS),,,11/30/17,ACTV,,,,
-3XTE,France,FR,,,fr,SARL coopérative de consommation,French,fr,SARL coopérative de consommation,,,11/30/17,ACTV,,,,
-487E,France,FR,,,fr,Établissement public local d'enseignement,French,fr,Établissement public local d'enseignement,,,11/30/17,ACTV,,,,
-491H,France,FR,,,fr,Association non déclarée,French,fr,Association non déclarée,,,11/30/17,ACTV,,,,
-4DZU,France,FR,,,fr,Autre SARL coopérative,French,fr,Autre SARL coopérative,,,11/30/17,ACTV,,,,
-4H0F,France,FR,,,fr,Autre établissement public local de coopération non spécialisé ou entente,French,fr,Autre établissement public local de coopération non spécialisé ou entente,,,11/30/17,ACTV,,,,
-4JS0,France,FR,,,fr,Association syndicale autorisée,French,fr,Association syndicale autorisée,,,11/30/17,ACTV,,,,
-4RT7,France,FR,,,fr,SA de HLM à conseil d'administration,French,fr,SA de HLM à conseil d'administration,,,11/30/17,ACTV,,,,
-4TNX,France,FR,,,fr,Profession libérale,French,fr,Profession libérale,,,11/30/17,INAC,legislation change,11/1/18,"due to a change in French legislation, this legal form has changed into the new code ZY9X",
-4VD7,France,FR,,,fr,Pôle d'équilibre territorial et rural (PETR),French,fr,Pôle d'équilibre territorial et rural (PETR),,,11/30/17,ACTV,,,,
-59F9,France,FR,,,fr,Groupement foncier agricole,French,fr,Groupement foncier agricole,,,11/30/17,ACTV,,,,
-5AJO,France,FR,,,fr,Caisse d'Épargne et de Prévoyance,French,fr,Caisse d'Épargne et de Prévoyance,,,11/30/17,ACTV,,,,
-5H68,France,FR,,,fr,Commerçant,French,fr,Commerçant,,,11/30/17,INAC,legislation change,7/1/18,"due to a change in French legislation, this legal form has changed into the new code ZY9X",
-5K0Q,France,FR,,,fr,Établissement public local social et médico-social,French,fr,Établissement public local social et médico-social,,,11/30/17,ACTV,,,,
-5VCF,France,FR,,,fr,SA à directoire (s.a.i.),French,fr,SA à directoire (s.a.i.),,,11/30/17,ACTV,,,,
-61WE,France,FR,,,fr,Institution de retraite supplémentaire,French,fr,Institution de retraite supplémentaire,,,11/30/17,ACTV,,,,
-66JQ,France,FR,,,fr,Syndicat de copropriété,French,fr,Syndicat de copropriété,,,11/30/17,ACTV,,,,
-6CHY,France,FR,,,fr,"SAS, société par actions simplifiée",French,fr,"SAS, société par actions simplifiée",,,11/30/17,ACTV,,,,
-6CJJ,France,FR,,,fr,SCP de géométres experts,French,fr,SCP de géométres experts,,,11/30/17,ACTV,,,,
-6DYI,France,FR,,,fr,Société de Participations Financiéres de Profession Libérale Société à responsabilité limitée (SPFPL SARL),French,fr,Société de Participations Financiéres de Profession Libérale Société à responsabilité limitée (SPFPL SARL),,,11/30/17,ACTV,,,,
-6IIE,France,FR,,,fr,SA coopérative (d'intérêt) maritime à conseil d'administration,French,fr,SA coopérative (d'intérêt) maritime à conseil d'administration,,,11/30/17,ACTV,,,,
-6KWU,France,FR,,,fr,Société d'exercice libéral en commandite par actions,French,fr,Société d'exercice libéral en commandite par actions,,,11/30/17,ACTV,,,,
-6RUE,France,FR,,,fr,Groupement européen d'intérêt économique (GEIE),French,fr,Groupement européen d'intérêt économique (GEIE),,,11/30/17,ACTV,,,,
-6SYJ,France,FR,,,fr,SA de HLM à directoire,French,fr,SA de HLM à directoire,,,11/30/17,ACTV,,,,
-6YHU,France,FR,,,fr,SA d'intérêt collectif agricole (SICA) à conseil d'administration,French,fr,SA d'intérêt collectif agricole (SICA) à conseil d'administration,,,11/30/17,ACTV,,,,
-74HH,France,FR,,,fr,SCP de vétérinaires,French,fr,SCP de vétérinaires,,,11/30/17,ACTV,,,,
-7O94,France,FR,,,fr,Groupement forestier,French,fr,Groupement forestier,,,11/30/17,ACTV,,,,
-7SZH,France,FR,,,fr,Autre groupement de droit privé non doté de la personnalité morale,French,fr,Autre groupement de droit privé non doté de la personnalité morale,,,11/30/17,ACTV,,,,
-7UHA,France,FR,,,fr,Collectivité et territoire d'Outre Mer,French,fr,Collectivité et territoire d'Outre Mer,,,11/30/17,ACTV,,,,
-82QO,France,FR,,,fr,Service déconcentré de l'État à compétence (inter) départementale,French,fr,Service déconcentré de l'État à compétence (inter) départementale,,,11/30/17,ACTV,,,,
-87VO,France,FR,,,fr,Safer anonyme à directoire,French,fr,Safer anonyme à directoire,,,11/30/17,ACTV,,,,
-8FZW,France,FR,,,fr,SCP de conseils juridiques,French,fr,SCP de conseils juridiques,,,11/30/17,ACTV,,,,
-8G07,France,FR,,,fr,(Autre) Personne physique,French,fr,(Autre) Personne physique,,,11/30/17,INAC,legislation change,7/1/18,"due to a change in French legislation, this legal form has changed into the new code ZY9X",
-8GTU,France,FR,,,fr,(Autre) Service déconcentré de l'État à compétence territoriale,French,fr,(Autre) Service déconcentré de l'État à compétence territoriale,,,11/30/17,ACTV,,,,
-8II5,France,FR,,,fr,Autre SA coopérative à conseil d'administration,French,fr,Autre SA coopérative à conseil d'administration,,,11/30/17,ACTV,,,,
-8IWA,France,FR,,,fr,Commune associée et commune déléguée,French,fr,Commune associée et commune déléguée,,,11/30/17,ACTV,,,,
-8LX5,France,FR,,,fr,Autre régime de prévoyance sociale,French,fr,Autre régime de prévoyance sociale,,,11/30/17,ACTV,,,,
-8OKM,France,FR,,,fr,Service déconcentré à compétence nationale d'un ministére (hors Défense),French,fr,Service déconcentré à compétence nationale d'un ministére (hors Défense),,,11/30/17,ACTV,,,,
-8R2G,France,FR,,,fr,Société civile immobilière de construction-vente,French,fr,Société civile immobilière de construction-vente,,,11/30/17,ACTV,typo corrected,7/5/19,typo corrected,
-8TYA,France,FR,,,fr,Autre SA coopérative à directoire,French,fr,Autre SA coopérative à directoire,,,11/30/17,ACTV,,,,
-8VDW,France,FR,,,fr,Société d'assurance à forme mutuelle,French,fr,Société d'assurance à forme mutuelle,,,11/30/17,ACTV,,,,
-8VWR,France,FR,,,fr,SA d'économie mixte à conseil d'administration,French,fr,SA d'économie mixte à conseil d'administration,,,11/30/17,ACTV,,,,
-8WH8,France,FR,,,fr,Autre personne morale de droit étranger,French,fr,Autre personne morale de droit étranger,,,11/30/17,ACTV,,,,
-8XDK,France,FR,,,fr,SA d'aménagement foncier et d'équipement rural (SAFER) à conseil d'administration,French,fr,SA d'aménagement foncier et d'équipement rural (SAFER) à conseil d'administration,,,11/30/17,ACTV,,,,
-94WO,France,FR,,,fr,District urbain,French,fr,District urbain,,,11/30/17,ACTV,,,,
-97PZ,France,FR,,,fr,SARL coopérative d'intérêt maritime,French,fr,SARL coopérative d'intérêt maritime,,,11/30/17,ACTV,,,,
-9HC8,France,FR,,,fr,Société en participation entre personnes physiques,French,fr,Société en participation entre personnes physiques,,,11/30/17,ACTV,,,,
-9KU7,France,FR,,,fr,Union de sociétés coopératives agricoles,French,fr,Union de sociétés coopératives agricoles,,,11/30/17,ACTV,,,,
-9N1F,France,FR,,,fr,SA d'intérêt collectif agricole (SICA),French,fr,SA d'intérêt collectif agricole (SICA),,,11/30/17,ACTV,,,,
-9O0S,France,FR,,,fr,Association fonciére urbaine,French,fr,Association fonciére urbaine,,,11/30/17,ACTV,,,,
-9T5S,France,FR,,,fr,Fondation,French,fr,Fondation,,,11/30/17,ACTV,,,,
-A0VZ,France,FR,,,fr,SCP d'architectes,French,fr,SCP d'architectes,,,11/30/17,ACTV,,,,
-AHBR,France,FR,,,fr,SA à participation ouvriére à directoire,French,fr,SA à participation ouvriére à directoire,,,11/30/17,ACTV,,,,
-AMFI,France,FR,,,fr,Autorité constitutionnelle,French,fr,Autorité constitutionnelle,,,11/30/17,ACTV,,,,
-B645,France,FR,,,fr,SA d'attribution à conseil d'administration,French,fr,SA d'attribution à conseil d'administration,,,11/30/17,ACTV,,,,
-B7I7,France,FR,,,fr,SA coopérative artisanale à conseil d'administration,French,fr,SA coopérative artisanale à conseil d'administration,,,11/30/17,ACTV,,,,
-BAK2,France,FR,,,fr,Exploitation agricole à responsabilité limitée,French,fr,Exploitation agricole à responsabilité limitée,,,11/30/17,ACTV,,,,
-BAUQ,France,FR,,,fr,SA de crédit immobilier à conseil d'administration,French,fr,SA de crédit immobilier à conseil d'administration,,,11/30/17,ACTV,,,,
-BDDP,France,FR,,,fr,SCP d'infirmiers,French,fr,SCP d'infirmiers,,,11/30/17,ACTV,,,,
-BEWI,France,FR,,,fr,Association déclarée,French,fr,Association déclarée,,,11/30/17,ACTV,,,,
-BRGA,France,FR,,,fr,SA immobilière d'investissement à conseil d'administration,French,fr,SA immobilière d'investissement à conseil d'administration,,,11/30/17,ACTV,typo corrected,7/5/19,typo corrected,
-BYZF,France,FR,,,fr,Paroisse hors zone concordataire,French,fr,Paroisse hors zone concordataire,,,11/30/17,ACTV,,,,
-C42J,France,FR,,,fr,SARL immobilière de gestion,French,fr,SARL immobilière de gestion,,,11/30/17,ACTV,typo corrected,7/5/19,typo corrected,
-C4D7,France,FR,,,fr,Ensemble urbain,French,fr,Ensemble urbain,,,11/30/17,ACTV,,,,
-CAX5,France,FR,,,fr,Régime général de la Sécurité Sociale,French,fr,Régime général de la Sécurité Sociale,,,11/30/17,ACTV,,,,
-CBO2,France,FR,,,fr,Service du ministére de la Défense,French,fr,Service du ministére de la Défense,,,11/30/17,ACTV,,,,
-CF56,France,FR,,,fr,Mutualité sociale agricole,French,fr,Mutualité sociale agricole,,,11/30/17,ACTV,,,,
-CNSS,France,FR,,,fr,Société en participation de professions libérales,French,fr,Société en participation de professions libérales,,,11/30/17,ACTV,,,,
-CNXL,France,FR,,,fr,Artisan-commerçant,French,fr,Artisan-commerçant,,,11/30/17,INAC,legislation change,7/1/18,"due to a change in French legislation, this legal form has changed into the new code ZY9X",
-CQJI,France,FR,,,fr,Région,French,fr,Région,,,11/30/17,ACTV,,,,
-CVH6,France,FR,,,fr,SARL d'aménagement foncier et d'équipement rural (SAFER),French,fr,SARL d'aménagement foncier et d'équipement rural (SAFER),,,11/30/17,ACTV,,,,
-D2I2,France,FR,,,fr,Syndicat intercommunal à vocation multiple (SIVOM),French,fr,Syndicat intercommunal à vocation multiple (SIVOM),,,11/30/17,ACTV,,,,
-DEG4,France,FR,,,fr,Société en commandite par actions,French,fr,Société en commandite par actions,,,11/30/17,ACTV,,,,
-DRQM,France,FR,,,fr,SA coopérative de construction à conseil d'administration,French,fr,SA coopérative de construction à conseil d'administration,,,11/30/17,ACTV,,,,
-DTAX,France,FR,,,fr,Autre organisme mutualiste,French,fr,Autre organisme mutualiste,,,11/30/17,ACTV,,,,
-DWYD,France,FR,,,fr,Association déclarée d'insertion par l'économique,French,fr,Association déclarée d'insertion par l'économique,,,11/30/17,ACTV,,,,
-DXQH,France,FR,,,fr,Société civile fonciére,French,fr,Société civile fonciére,,,11/30/17,ACTV,,,,
-E0YF,France,FR,,,fr,SA coopérative d'intérêt maritime à directoire,French,fr,SA coopérative d'intérêt maritime à directoire,,,11/30/17,ACTV,,,,
-E6YB,France,FR,,,fr,Caisse (fédérale) de crédit mutuel,French,fr,Caisse (fédérale) de crédit mutuel,,,11/30/17,ACTV,,,,
-EABD,France,FR,,,fr,Société civile coopérative entre médecins,French,fr,Société civile coopérative entre médecins,,,11/30/17,ACTV,,,,
-EAC8,France,FR,,,fr,Société coopérative de production de HLM anonyme à directoire,French,fr,Société coopérative de production de HLM anonyme à directoire,,,11/30/17,ACTV,,,,
-ECUL,France,FR,,,fr,Secteur de commune,French,fr,Secteur de commune,,,11/30/17,ACTV,,,,
-EVYY,France,FR,,,fr,Caisse de crédit maritime mutuel,French,fr,Caisse de crédit maritime mutuel,,,11/30/17,ACTV,,,,
-EYRI,France,FR,,,fr,Centre technique industriel ou comité professionnel du développement économique,French,fr,Centre technique industriel ou comité professionnel du développement économique,,,11/30/17,ACTV,,,,
-F0B6,France,FR,,,fr,Société en commandite simple coopérative,French,fr,Société en commandite simple coopérative,,,11/30/17,ACTV,,,,
-F6SZ,France,FR,,,fr,SA coopérative ouvriére de production (SCOP) à directoire,French,fr,SA coopérative ouvriére de production (SCOP) à directoire,,,11/30/17,ACTV,,,,
-F72Z,France,FR,,,fr,Établissement public national à caractére industriel ou commercial doté d'un comptable public,French,fr,Établissement public national à caractére industriel ou commercial doté d'un comptable public,,,11/30/17,ACTV,,,,
-F8UD,France,FR,,,fr,SCP d'avoués d'appel,French,fr,SCP d'avoués d'appel,,,11/30/17,ACTV,,,,
-F93F,France,FR,,,fr,SA immobilière pour le commerce et l'industrie (SICOMI) à conseil d'administration,French,fr,SA immobilière pour le commerce et l'industrie (SICOMI) à conseil d'administration,,,11/30/17,ACTV,typo corrected,7/5/19,typo corrected,
-FBYB,France,FR,,,fr,Représentation ou agence commerciale d'état ou organisme public étranger immatriculé au RCS,French,fr,Représentation ou agence commerciale d'état ou organisme public étranger immatriculé au RCS,,,11/30/17,ACTV,,,,
-FEEA,France,FR,,,fr,Établissement public national ayant fonction d'administration centrale,French,fr,Établissement public national ayant fonction d'administration centrale,,,11/30/17,ACTV,,,,
-FFQL,France,FR,,,fr,Commune et commune nouvelle,French,fr,Commune et commune nouvelle,,,11/30/17,ACTV,,,,
-FKG2,France,FR,,,fr,Organisation internationale,French,fr,Organisation internationale,,,11/30/17,ACTV,,,,
-FOUY,France,FR,,,fr,SCP de commissaires aux comptes,French,fr,SCP de commissaires aux comptes,,,11/30/17,ACTV,,,,
-FY0F,France,FR,,,fr,Société civile immobilière,French,fr,Société civile immobilière,,,11/30/17,ACTV,typo corrected,7/5/19,typo corrected,
-FYBN,France,FR,,,fr,SARL mixte d'intérêt agricole (SMIA),French,fr,SARL mixte d'intérêt agricole (SMIA),,,11/30/17,ACTV,,,,
-G7Z2,France,FR,,,fr,SARL coopérative de construction,French,fr,SARL coopérative de construction,,,11/30/17,ACTV,,,,
-G8LP,France,FR,,,fr,Sociétés Interprofessionnelles de Soins Ambulatoires ,French,fr,Sociétés Interprofessionnelles de Soins Ambulatoires ,,,11/30/17,ACTV,,,,
-G98S,France,FR,,,fr,Ordre professionnel ou assimilé,French,fr,Ordre professionnel ou assimilé,,,11/30/17,ACTV,,,,
-GFN6,France,FR,,,fr,SA coopérative de commerçants-détaillants à conseil d'administration,French,fr,SA coopérative de commerçants-détaillants à conseil d'administration,,,11/30/17,ACTV,,,,
-GJJJ,France,FR,,,fr,Société d'exercice libéral à responsabilité limitée à associé unique,French,fr,Société d'exercice libéral à responsabilité limitée à associé unique,,,7/5/19,ACTV,,,,
-GLN8,France,FR,,,fr,Centre Intercommunal d'action sociale (CIAS),French,fr,Centre Intercommunal d'action sociale (CIAS),,,11/30/17,ACTV,,,,
-GQV4,France,FR,,,fr,SA immobilière pour le commerce et l'industrie (SICOMI) à directoire,French,fr,SA immobilière pour le commerce et l'industrie (SICOMI) à directoire,,,11/30/17,ACTV,typo corrected,7/5/19,typo corrected,
-GXL6,France,FR,,,fr,Autre établissement public national d'enseignement,French,fr,Autre établissement public national d'enseignement,,,11/30/17,ACTV,,,,
-GZCQ,France,FR,,,fr,SCP de greffiers de tribunal de commerce,French,fr,SCP de greffiers de tribunal de commerce,,,11/30/17,ACTV,,,,
-H1U2,France,FR,,,fr,Société en nom collectif,French,fr,Société en nom collectif,,,11/30/17,ACTV,,,,
-H3Z4,France,FR,,,fr,SA coopérative de transport à directoire,French,fr,SA coopérative de transport à directoire,,,11/30/17,ACTV,,,,
-H3ZD,France,FR,,,fr,SARL d'intérêt collectif agricole (SICA),French,fr,SARL d'intérêt collectif agricole (SICA),,,11/30/17,ACTV,,,,
-H4VR,France,FR,,,fr,Société civile coopérative de consommation,French,fr,Société civile coopérative de consommation,,,11/30/17,ACTV,,,,
-HA3N,France,FR,,,fr,Caisse de crédit municipal,French,fr,Caisse de crédit municipal,,,11/30/17,ACTV,,,,
-HATI,France,FR,,,fr,Association intermédiaire,French,fr,Association intermédiaire,,,11/30/17,ACTV,,,,
-HC8N,France,FR,,,fr,SARL union de sociétés coopératives,French,fr,SARL union de sociétés coopératives,,,11/30/17,ACTV,,,,
-HF2L,France,FR,,,fr,"Association de droit local (Bas-Rhin, Haut-Rhin et Moselle)",French,fr,"Association de droit local (Bas-Rhin, Haut-Rhin et Moselle)",,,11/30/17,ACTV,,,,
-HMEI,France,FR,,,fr,Autre société civile coopérative,French,fr,Autre société civile coopérative,,,11/30/17,ACTV,,,,
-HSYZ,France,FR,,,fr,Autre société civile professionnelle,French,fr,Autre société civile professionnelle,,,11/30/17,ACTV,,,,
-I0MH,France,FR,,,fr,Société civile coopérative de construction,French,fr,Société civile coopérative de construction,,,11/30/17,ACTV,,,,
-I8TE,France,FR,,,fr,SA mixte d'intérêt agricole (SMIA),French,fr,SA mixte d'intérêt agricole (SMIA),,,11/30/17,ACTV,,,,
-IAP3,France,FR,,,fr,Syndicat intercommunal à vocation unique (SIVU),French,fr,Syndicat intercommunal à vocation unique (SIVU),,,11/30/17,ACTV,,,,
-IC8G,France,FR,,,fr,SCP d'avocats aux conseils,French,fr,SCP d'avocats aux conseils,,,11/30/17,ACTV,,,,
-IC98,France,FR,,,fr,SCP de commissaires-priseurs,French,fr,SCP de commissaires-priseurs,,,11/30/17,ACTV,,,,
-IF7H,France,FR,,,fr,SA coopérative de consommation à conseil d'administration,French,fr,SA coopérative de consommation à conseil d'administration,,,11/30/17,ACTV,,,,
-IGSV,France,FR,,,fr,Société civile laitiére,French,fr,Société civile laitiére,,,11/30/17,ACTV,,,,
-IQR2,France,FR,,,fr,Société civile d'intérêt collectif agricole (SICA),French,fr,Société civile d'intérêt collectif agricole (SICA),,,11/30/17,ACTV,,,,
-J9OZ,France,FR,,,fr,Société d'exercice libéral à responsabilité limitée,French,fr,Société d'exercice libéral à responsabilité limitée,,,11/30/17,ACTV,,,,
-JBIQ,France,FR,,,fr,Institution de prévoyance,French,fr,Institution de prévoyance,,,11/30/17,ACTV,,,,
-JFET,France,FR,,,fr,Société de Participations Financiéres de Profession Libérale Société anonyme à Directoire (SPFPL SA à directoire),French,fr,Société de Participations Financiéres de Profession Libérale Société anonyme à Directoire (SPFPL SA à directoire),,,11/30/17,ACTV,,,,
-JIYK,France,FR,,,fr,Syndicat inter hospitalier,French,fr,Syndicat inter hospitalier,,,11/30/17,ACTV,,,,
-JM1W,France,FR,,,fr,SCP de dentistes,French,fr,SCP de dentistes,,,11/30/17,ACTV,,,,
-JMO0,France,FR,,,fr,Commission syndicale pour la gestion des biens indivis des communes,French,fr,Commission syndicale pour la gestion des biens indivis des communes,,,11/30/17,ACTV,,,,
-JN2P,France,FR,,,fr,SARL unipersonnelle,French,fr,SARL unipersonnelle,,,11/30/17,ACTV,,,,
-JR7T,France,FR,,,fr,SARL nationale,French,fr,SARL nationale,,,11/30/17,ACTV,,,,
-JU82,France,FR,,,fr,Ministére,French,fr,Ministére,,,11/30/17,ACTV,,,,
-K39X,France,FR,,,fr,SA union de sociétés coopératives à conseil d'administration,French,fr,SA union de sociétés coopératives à conseil d'administration,,,11/30/17,ACTV,,,,
-K5KA,France,FR,,,fr,Régie d'une collectivité locale à caractére industriel ou commercial,French,fr,Régie d'une collectivité locale à caractére industriel ou commercial,,,11/30/17,ACTV,,,,
-K65D,France,FR,,,fr,SA à conseil d'administration (s.a.i.),French,fr,SA à conseil d'administration (s.a.i.),,,11/30/17,ACTV,,,,
-K69X,France,FR,,,fr,SA de crédit immobilier à directoire,French,fr,SA de crédit immobilier à directoire,,,11/30/17,ACTV,,,,
-K7XQ,France,FR,,,fr,Établissement public national à caractére scientifique culturel et professionnel,French,fr,Établissement public national à caractére scientifique culturel et professionnel,,,11/30/17,ACTV,,,,
-K99N,France,FR,,,fr,Comité d'établissement,French,fr,Comité d'établissement,,,11/30/17,ACTV,,,,
-KBEQ,France,FR,,,fr,Société civile immobilière d' accession progressive à la propriété,French,fr,Société civile immobilière d' accession progressive à la propriété,,,11/30/17,ACTV,typo corrected,7/5/19,typo corrected,
-KCN5,France,FR,,,fr,"Etablissement public administratif, cercle et foyer dans les armées",French,fr,"Etablissement public administratif, cercle et foyer dans les armées",,,11/30/17,ACTV,,,,
-KFR1,France,FR,,,fr,Artisan,French,fr,Artisan,,,11/30/17,INAC,legislation change,7/1/18,"due to a change in French legislation, this legal form has changed into the new code ZY9X",
-KMPN,France,FR,,,fr,Établissement public national à caractére administratif,French,fr,Établissement public national à caractére administratif,,,11/30/17,ACTV,,,,
-KQH7,France,FR,,,fr,Société civile d'attribution,French,fr,Société civile d'attribution,,,11/30/17,ACTV,,,,
-KS9B,France,FR,,,fr,Syndicat patronal,French,fr,Syndicat patronal,,,11/30/17,ACTV,,,,
-KWI4,France,FR,,,fr,SCP de masseurs-kinésithérapeutes,French,fr,SCP de masseurs-kinésithérapeutes,,,11/30/17,ACTV,,,,
-L25Z,France,FR,,,fr,Société anonyme mixte d'intérêt agricole (SMIA) à conseil d'administration,French,fr,Société anonyme mixte d'intérêt agricole (SMIA) à conseil d'administration,,,11/30/17,ACTV,,,,
-L6QO,France,FR,,,fr,Régime spécial de Sécurité Sociale,French,fr,Régime spécial de Sécurité Sociale,,,11/30/17,ACTV,,,,
-LARO,France,FR,,,fr,Société par actions simplifiée à associé unique ou société par actions simplifiée unipersonnelle,French,fr,Société par actions simplifiée à associé unique ou société par actions simplifiée unipersonnelle,,,11/30/17,ACTV,,,,
-LGME,France,FR,,,fr,SA à participation ouvriére à conseil d'administration,French,fr,SA à participation ouvriére à conseil d'administration,,,11/30/17,ACTV,,,,
-LU8S,France,FR,,,fr,Associé gérant de Société,French,fr,Associé gérant de Société,,,11/30/17,INAC,legislation change,7/1/18,"due to a change in French legislation, this legal form has changed into the new code ZY9X",
-LUIN,France,FR,,,fr,SARL immobilière pour le commerce et l'industrie (SICOMI),French,fr,SARL immobilière pour le commerce et l'industrie (SICOMI),,,11/30/17,ACTV,typo corrected,7/5/19,typo corrected,
-M1BJ,France,FR,,,fr,Société civile de moyens,French,fr,Société civile de moyens,,,11/30/17,ACTV,,,,
-M673,France,FR,,,fr,Société civile d'exploitation agricole,French,fr,Société civile d'exploitation agricole,,,11/30/17,ACTV,,,,
-MG2O,France,FR,,,fr,Institution interdépartementale ou entente,French,fr,Institution interdépartementale ou entente,,,11/30/17,ACTV,,,,
-MMA4,France,FR,,,fr,SA union de sociétés coopératives à directoire,French,fr,SA union de sociétés coopératives à directoire,,,11/30/17,ACTV,,,,
-MOUL,France,FR,,,fr,Assurance mutuelle agricole,French,fr,Assurance mutuelle agricole,,,11/30/17,ACTV,,,,
-MQPZ,France,FR,,,fr,Caisse d'épargne et de prévoyance à forme coopérative,French,fr,Caisse d'épargne et de prévoyance à forme coopérative,,,11/30/17,ACTV,,,,
-MQU9,France,FR,,,fr,Organisme de placement collectif en valeurs mobilières,French,fr,Organisme de placement collectif en valeurs mobilières,,,7/5/19,ACTV,,,,
-MX8J,France,FR,,,fr,SA coopérative de commerçants-détaillants à directoire,French,fr,SA coopérative de commerçants-détaillants à directoire,,,11/30/17,ACTV,,,,
-NBA8,France,FR,,,fr,Autre établissement public national administratif à compétence territoriale limitée,French,fr,Autre établissement public national administratif à compétence territoriale limitée,,,11/30/17,ACTV,,,,
-NFCV,France,FR,,,fr,Association coopérative inscrite (droit local Alsace Moselle),French,fr,Association coopérative inscrite (droit local Alsace Moselle),,,11/30/17,ACTV,,,,
-NM07,France,FR,,,fr,SA immobilière d'investissement à directoire,French,fr,SA immobilière d'investissement à directoire,,,11/30/17,ACTV,typo corrected,7/5/19,typo corrected,
-NOI8,France,FR,,,fr,Communauté d'agglomération,French,fr,Communauté d'agglomération,,,11/30/17,ACTV,,,,
-NQCT,France,FR,,,fr,(Autre) Établissement public administratif local,French,fr,(Autre) Établissement public administratif local,,,11/30/17,ACTV,,,,
-NUMY,France,FR,,,fr,SA coopérative artisanale à directoire,French,fr,SA coopérative artisanale à directoire,,,11/30/17,ACTV,,,,
-OAGA,France,FR,,,fr,Régime vieillesse ne dépendant pas du régime général de la Sécurité Sociale,French,fr,Régime vieillesse ne dépendant pas du régime général de la Sécurité Sociale,,,11/30/17,ACTV,,,,
-OIQA,France,FR,,,fr,Autre organisme professionnel,French,fr,Autre organisme professionnel,,,11/30/17,ACTV,,,,
-OLJ1,France,FR,,,fr,Syndicat mixte fermé,French,fr,Syndicat mixte fermé,,,11/30/17,ACTV,,,,
-OSLZ,France,FR,,,fr,Société coopérative de banque populaire,French,fr,Société coopérative de banque populaire,,,11/30/17,ACTV,,,,
-OWUN,France,FR,,,fr,Communauté de communes,French,fr,Communauté de communes,,,11/30/17,ACTV,,,,
-P3J5,France,FR,,,fr,Centre communal d'action sociale,French,fr,Centre communal d'action sociale,,,11/30/17,ACTV,,,,
-P714,France,FR,,,fr,Association fonciére de remembrement,French,fr,Association fonciére de remembrement,,,11/30/17,ACTV,,,,
-PESN,France,FR,,,fr,Indivision avec personne morale,French,fr,Indivision avec personne morale,,,11/30/17,ACTV,,,,
-PL6V,France,FR,,,fr,Établissement public local culturel,French,fr,Établissement public local culturel,,,11/30/17,ACTV,,,,
-PWKL,France,FR,,,fr,Congrégation,French,fr,Congrégation,,,11/30/17,ACTV,,,,
-PZLG,France,FR,,,fr,Métropole,French,fr,Métropole,,,11/30/17,ACTV,,,,
-Q2A1,France,FR,,,fr,Société commerciale étrangére immatriculée au RCS,French,fr,Société commerciale étrangére immatriculée au RCS,,,11/30/17,ACTV,,,,
-Q634,France,FR,,,fr,Indivision entre personnes physiques,French,fr,Indivision entre personnes physiques,,,11/30/17,ACTV,,,,
-Q8E2,France,FR,,,fr,Société en nom collectif coopérative,French,fr,Société en nom collectif coopérative,,,11/30/17,ACTV,,,,
-QCWO,France,FR,,,fr,Groupement agricole d'exploitation en commun (GAEC),French,fr,Groupement agricole d'exploitation en commun (GAEC),,,11/30/17,ACTV,,,,
-QU3G,France,FR,,,fr,SA coopérative de production de HLM à conseil d'administration,French,fr,SA coopérative de production de HLM à conseil d'administration,,,11/30/17,ACTV,,,,
-QUB4,France,FR,,,fr,Organisme consulaire,French,fr,Organisme consulaire,,,11/30/17,ACTV,,,,
-QV2O,France,FR,,,fr,Société d'exercice libéral à forme anonyme à directoire,French,fr,Société d'exercice libéral à forme anonyme à directoire,,,11/30/17,ACTV,,,,
-QVPB,France,FR,,,fr,Société anonyme,French,fr,Société anonyme,SA,,7/5/19,ACTV,,,,
-R0B6,France,FR,,,fr,Groupement d'intérêt économique (GIE),French,fr,Groupement d'intérêt économique (GIE),,,11/30/17,ACTV,,,,
-R1JO,France,FR,,,fr,Communauté urbaine,French,fr,Communauté urbaine,,,11/30/17,ACTV,,,,
-R59A,France,FR,,,fr,Société en commandite par actions coopérative,French,fr,Société en commandite par actions coopérative,,,11/30/17,ACTV,,,,
-R6WQ,France,FR,,,fr,Groupement de coopération sanitaire à gestion publique,French,fr,Groupement de coopération sanitaire à gestion publique,,,11/30/17,ACTV,,,,
-RD0Z,France,FR,,,fr,Fiducie,French,fr,Fiducie,,,11/30/17,ACTV,,,,
-RFWH,France,FR,,,fr,Groupement foncier et rural,French,fr,Groupement foncier et rural,,,11/30/17,ACTV,,,,
-RNJZ,France,FR,,,fr,Société de Participations Financiéres de Profession Libérale Société en commandite par actions (SPFPL SCA),French,fr,Société de Participations Financiéres de Profession Libérale Société en commandite par actions (SPFPL SCA),,,11/30/17,ACTV,,,,
-RNSB,France,FR,,,fr,Société étrangére non immatriculée au RCS,French,fr,Société étrangére non immatriculée au RCS,,,11/30/17,ACTV,,,,
-RT39,France,FR,,,fr,Société créée de fait avec personne morale,French,fr,Société créée de fait avec personne morale,,,11/30/17,ACTV,,,,
-RT6Y,France,FR,,,fr,Agent commercial,French,fr,Agent commercial,,,11/30/17,INAC,legislation change,7/1/18,"due to a change in French legislation, this legal form has changed into the new code ZY9X",
-RWMC,France,FR,,,fr,Communauté de villes,French,fr,Communauté de villes,,,11/30/17,ACTV,,,,
-S0X8,France,FR,,,fr,Caisse de crédit agricole mutuel,French,fr,Caisse de crédit agricole mutuel,,,11/30/17,ACTV,,,,
-S82R,France,FR,,,fr,Société de Participations Financiéres de Profession Libérale Société par actions simplifiée (SPFPL SAS),French,fr,Société de Participations Financiéres de Profession Libérale Société par actions simplifiée (SPFPL SAS),,,11/30/17,ACTV,,,,
-SMZ6,France,FR,,,fr,Société de Participations Financiéres de Profession Libérale Société anonyme à conseil d'administration (SPFPL SA à conseil d'administration),French,fr,Société de Participations Financiéres de Profession Libérale Société anonyme à conseil d'administration (SPFPL SA à conseil d'administration),,,11/30/17,ACTV,,,,
-SSHN,France,FR,,,fr,Régime d'assurance chômage,French,fr,Régime d'assurance chômage,,,11/30/17,ACTV,,,,
-SWPX,France,FR,,,fr,SA coopérative de transport à conseil d'administration,French,fr,SA coopérative de transport à conseil d'administration,,,11/30/17,ACTV,,,,
-SZ63,France,FR,,,fr,Service déconcentré de l'État à compétence (inter) régionale,French,fr,Service déconcentré de l'État à compétence (inter) régionale,,,11/30/17,ACTV,,,,
-T25Y,France,FR,,,fr,SCP d'avocats,French,fr,SCP d'avocats,,,11/30/17,ACTV,,,,
-TGRE,France,FR,,,fr,Caisse des écoles,French,fr,Caisse des écoles,,,11/30/17,ACTV,,,,
-TNPO,France,FR,,,fr,Exploitant agricole,French,fr,Exploitant agricole,,,11/30/17,INAC,legislation change,7/1/18,"due to a change in French legislation, this legal form has changed into the new code ZY9X",
-TOL2,France,FR,,,fr,SA nationale à directoire,French,fr,SA nationale à directoire,,,11/30/17,ACTV,,,,
-TPNT,France,FR,,,fr,Société européenne,French,fr,Société européenne,,,11/30/17,ACTV,,,,
-TUE5,France,FR,,,fr,Office public d'habitation à loyer modéré (OPHLM),French,fr,Office public d'habitation à loyer modéré (OPHLM),,,11/30/17,ACTV,,,,
-UFM7,France,FR,,,fr,SA coopérative de construction à directoire,French,fr,SA coopérative de construction à directoire,,,11/30/17,ACTV,,,,
-UHKH,France,FR,,,fr,Société de caution mutuelle,French,fr,Société de caution mutuelle,,,11/30/17,ACTV,,,,
-UQRY,France,FR,,,fr,Ecole nationale non dotée de la personnalité morale,French,fr,Ecole nationale non dotée de la personnalité morale,,,11/30/17,ACTV,,,,
-UUT8,France,FR,,,fr,SCP de directeurs de laboratoire d'analyse médicale,French,fr,SCP de directeurs de laboratoire d'analyse médicale,,,11/30/17,ACTV,,,,
-UV02,France,FR,,,fr,Service central d'un ministére,French,fr,Service central d'un ministére,,,11/30/17,ACTV,,,,
-UZY3,France,FR,,,fr,Établissement d'hospitalisation,French,fr,Établissement d'hospitalisation,,,11/30/17,ACTV,,,,
-V1Z5,France,FR,,,fr,SARL coopérative ouvriére de production (SCOP),French,fr,SARL coopérative ouvriére de production (SCOP),,,11/30/17,ACTV,,,,
-V5SV,France,FR,,,fr,Société civile coopérative d'intérêt maritime,French,fr,Société civile coopérative d'intérêt maritime,,,11/30/17,ACTV,,,,
-V6G1,France,FR,,,fr,Régime maladie des non-salariés non agricoles,French,fr,Régime maladie des non-salariés non agricoles,,,11/30/17,ACTV,,,,
-V9QP,France,FR,,,fr,Société à responsabilité limitée (sans autre indication),French,fr,Société à responsabilité limitée (sans autre indication),,,11/30/17,ACTV,,,,
-VBC7,France,FR,,,fr,Institution Banque de France,French,fr,Institution Banque de France,,,11/30/17,ACTV,,,,
-VBQP,France,FR,,,fr,Fonds à forme sociétale à directoire,French,fr,Fonds à forme sociétale à directoire,,,11/30/17,ACTV,correction of name of legal form,7/5/19,name of legal form corrected,
-VD7Z,France,FR,,,fr,Société en commandite simple,French,fr,Société en commandite simple,,,11/30/17,ACTV,,,,
-VJV5,France,FR,,,fr,SARL d'économie mixte,French,fr,SARL d'économie mixte,,,11/30/17,ACTV,,,,
-VO18,France,FR,,,fr,Établissement public local à caractére industriel ou commercial,French,fr,Établissement public local à caractére industriel ou commercial,,,11/30/17,ACTV,,,,
-VTFS,France,FR,,,fr,SARL coopérative artisanale,French,fr,SARL coopérative artisanale,,,11/30/17,ACTV,,,,
-W3LD,France,FR,,,fr,Groupement agricole foncier,French,fr,Groupement agricole foncier,,,11/30/17,ACTV,,,,
-W4G1,France,FR,,,fr,SARL coopérative de transport,French,fr,SARL coopérative de transport,,,11/30/17,ACTV,,,,
-WGCY,France,FR,,,fr,Groupement d'employeurs,French,fr,Groupement d'employeurs,,,11/30/17,ACTV,,,,
-WXNU,France,FR,,,fr,SCP d'huissiers,French,fr,SCP d'huissiers,,,11/30/17,ACTV,,,,
-X78I,France,FR,,,fr,Fonds à forme sociétale à conseil d'administration,French,fr,Fonds à forme sociétale à conseil d'administration,,,11/30/17,ACTV,correction of name of legal form,7/5/19,name of legal form corrected based on name change in France in April 2017,
-XH8C,France,FR,,,fr,"Association déclarée, reconnue d'utilité publique",French,fr,"Association déclarée, reconnue d'utilité publique",,,11/30/17,ACTV,,,,
-XK4T,France,FR,,,fr,Comité central d'entreprise,French,fr,Comité central d'entreprise,,,11/30/17,ACTV,,,,
-XPX6,France,FR,,,fr,SA coopérative ouvriére de production (SCOP) à conseil d'administration,French,fr,SA coopérative ouvriére de production (SCOP) à conseil d'administration,,,11/30/17,ACTV,,,,
-XQBA,France,FR,,,fr,Société en participation avec personne morale,French,fr,Société en participation avec personne morale,,,11/30/17,ACTV,,,,
-Y1W1,France,FR,,,fr,Section de commune,French,fr,Section de commune,,,11/30/17,ACTV,,,,
-Y4VA,France,FR,,,fr,Département,French,fr,Département,,,11/30/17,ACTV,,,,
-Y7G8,France,FR,,,fr,Caisse locale de crédit mutuel,French,fr,Caisse locale de crédit mutuel,,,11/30/17,ACTV,,,,
-Y8WC,France,FR,,,fr,Groupement de coopération sanitaire à gestion privée,French,fr,Groupement de coopération sanitaire à gestion privée,,,11/30/17,ACTV,,,,
-YADL,France,FR,,,fr,Autorité administrative ou publique indépendante,French,fr,Autorité administrative ou publique indépendante,,,11/30/17,ACTV,correction of name of legal form,7/5/19,name of legal form corrected based on name change in France in April 2017,
-YHI5,France,FR,,,fr,Pôle métropolitain,French,fr,Pôle métropolitain,,,11/30/17,ACTV,,,,
-YJM5,France,FR,,,fr,Officier public ou ministériel,French,fr,Officier public ou ministériel,,,11/30/17,INAC,legislation change,11/1/18,"due to a change in French legislation, this legal form has changed into the new code ZY9X",
-YUCL,France,FR,,,fr,Institution de retraite complémentaire,French,fr,Institution de retraite complémentaire,,,11/30/17,ACTV,,,,
-YX4E,France,FR,,,fr,Société civile de placement collectif immobilier (SCPI),French,fr,Société civile de placement collectif immobilier (SCPI),,,11/30/17,ACTV,,,,
-Z0JP,France,FR,,,fr,Établissement public national à caractére industriel ou commercial non doté d'un comptable public,French,fr,Établissement public national à caractére industriel ou commercial non doté d'un comptable public,,,11/30/17,ACTV,,,,
-Z2FQ,France,FR,,,fr,Groupement d'intérêt public (GIP),French,fr,Groupement d'intérêt public (GIP),,,11/30/17,ACTV,,,,
-Z5WG,France,FR,,,fr,Groupement pastoral,French,fr,Groupement pastoral,,,11/30/17,ACTV,,,,
-Z9K8,France,FR,,,fr,Association d'avocats à responsabilité professionnelle individuelle,French,fr,Association d'avocats à responsabilité professionnelle individuelle,,,11/30/17,ACTV,,,,
-ZECH,France,FR,,,fr,Syndicat mixte ouvert,French,fr,Syndicat mixte ouvert,,,11/30/17,ACTV,,,,
-ZM5P,France,FR,,,fr,SA d'économie mixte à directoire,French,fr,SA d'économie mixte à directoire,,,11/30/17,ACTV,,,,
-ZPEZ,France,FR,,,fr,Association syndicale libre,French,fr,Association syndicale libre,,,11/30/17,ACTV,,,,
-ZQ9B,France,FR,,,fr,Exploitant public,French,fr,Exploitant public,,,11/30/17,ACTV,,,,
-ZQIT,France,FR,,,fr,SA coopérative de consommation à directoire,French,fr,SA coopérative de consommation à directoire,,,11/30/17,ACTV,,,,
-ZXHJ,France,FR,,,fr,Société d'exercice libéral à forme anonyme à conseil d'administration,French,fr,Société d'exercice libéral à forme anonyme à conseil d'administration,,,11/30/17,ACTV,,,,
-ZY9X,France,FR,,,fr,Entrepreneur individuel,French,fr,Entrepreneur individuel,,,7/5/19,ACTV,,,,
-ZZ0X,France,FR,,,fr,Établissement public des cultes d'Alsace-Lorraine,French,fr,Établissement public des cultes d'Alsace-Lorraine,,,11/30/17,ACTV,,,,
+157O,France,FR,,,,Régie d'une collectivité locale à caractére administratif,French,fr,Régie d'une collectivité locale à caractére administratif,,,11/30/17,ACTV,,,,Governance of a local authority of an administrative nature
+1B88,France,FR,,,fr,SCP de médecins,French,fr,SCP de médecins,S.C.P.;SCP,,11/30/17,ACTV,,,,SCP = Société Civile Professionnelle = Professional Civil Society;Professional Civil Society of Doctors
+1GNM,France,FR,,,,Syndicat de salariés,French,fr,Syndicat de salariés,,,11/30/17,ACTV,,,,Staff Union
+1L24,France,FR,,,,Autre société civile,French,fr,Autre société civile,,,11/30/17,ACTV,,,,Other civil society
+1NF1,France,FR,,,,SA nationale à conseil d'administration,French,fr,SA nationale à conseil d'administration,,,11/30/17,ACTV,,,,National public limited company with board of directors
+1Q16,France,FR,,,,Société créée de fait entre personnes physiques,French,fr,Société créée de fait entre personnes physiques,,,11/30/17,ACTV,,,,Company created de facto between natural persons
+1Y0C,France,FR,,,,SARL d'attribution,French,fr,SARL d'attribution,,,11/30/17,ACTV,,,,Attribution LLC
+211B,France,FR,,,,Société coopérative agricole,French,fr,Société coopérative agricole,,,11/30/17,ACTV,,,,Agricultural Cooperative Society
+29FA,France,FR,,,,Institution interrégionale ou entente,French,fr,Institution interrégionale ou entente,,,11/30/17,ACTV,,,,Interregional institution or agreement
+2N4L,France,FR,,,,(Autre) Collectivité territoriale,French,fr,(Autre) Collectivité territoriale,,,11/30/17,ACTV,,,,(Other) Local authority
+2NL6,France,FR,,,,"État, collectivité ou établissement public étranger",French,fr,"État, collectivité ou établissement public étranger",,,11/30/17,ACTV,,,,"Foreign state, community or public institution"
+2ONM,France,FR,,,,SA d'attribution à directoire,French,fr,SA d'attribution à directoire,,,11/30/17,ACTV,,,,SA with a Management Board
+2WMP,France,FR,,,,Autre personne morale de droit administratif,French,fr,Autre personne morale de droit administratif,,,11/30/17,ACTV,,,,Other administrative law legal person
+2XIK,France,FR,,,,Mutuelle,French,fr,Mutuelle,,,11/30/17,ACTV,,,,
+34QS,France,FR,,,,Autre personne morale de droit privé,French,fr,Autre personne morale de droit privé,,,11/30/17,ACTV,,,,Other legal person governed by private law
+3AZY,France,FR,,,,Coopérative d'utilisation de matériel agricole en commun (CUMA),French,fr,Coopérative d'utilisation de matériel agricole en commun (CUMA),,,11/30/17,ACTV,,,,Cooperative for the Joint Use of Agricultural Equipment (CUMA)
+3FCU,France,FR,,,fr,Société d'exercice libéral par action simplifiée,French,fr,Société d'exercice libéral par action simplifiée,SELAS,,11/30/17,ACTV,,,,private practice simplified joint stock company
+3NJL,France,FR,,,,Autre personne de droit privé inscrite au registre du commerce et des sociétés,French,fr,Autre personne de droit privé inscrite au registre du commerce et des sociétés,,,11/30/17,ACTV,,,,Other person under private law registered in the Commercial Register
+3OK3,France,FR,,,,SCP de notaires,French,fr,SCP de notaires,S.C.P.;SCP,,11/30/17,ACTV,,,,Professional Civil Society of notaries
+3S6E,France,FR,,,,Service départemental d'incendie et de secours (SDIS),French,fr,Service départemental d'incendie et de secours (SDIS),,,11/30/17,ACTV,,,,Departmental Fire and Rescue Service
+3XTE,France,FR,,,,SARL coopérative de consommation,French,fr,SARL coopérative de consommation,,,11/30/17,ACTV,,,,LLC consumer cooperative
+487E,France,FR,,,,Établissement public local d'enseignement,French,fr,Établissement public local d'enseignement,,,11/30/17,ACTV,,,,Local public educational institution
+491H,France,FR,,,,Association non déclarée,French,fr,Association non déclarée,,,11/30/17,ACTV,,,,Undeclared association
+4DZU,France,FR,,,,Autre SARL coopérative,French,fr,Autre SARL coopérative,,,11/30/17,ACTV,,,,Other Cooperative LLC
+4H0F,France,FR,,,,Autre établissement public local de coopération non spécialisé ou entente,French,fr,Autre établissement public local de coopération non spécialisé ou entente,,,11/30/17,ACTV,,,,Other non-specialised local public cooperation establishment or agreement
+4JS0,France,FR,,,,Association syndicale autorisée,French,fr,Association syndicale autorisée,,,11/30/17,ACTV,,,,Authorized Trade Union Association
+4RT7,France,FR,,,,SA de HLM à conseil d'administration,French,fr,SA de HLM à conseil d'administration,,,11/30/17,ACTV,,,,
+4TNX,France,FR,,,,Profession libérale,French,fr,Profession libérale,,,11/30/17,INAC,legislation change,11/1/18,"due to a change in French legislation, this legal form has changed into the new code ZY9X",Liberal profession
+4VD7,France,FR,,,,Pôle d'équilibre territorial et rural (PETR),French,fr,Pôle d'équilibre territorial et rural (PETR),,,11/30/17,ACTV,,,,Pole of territorial and rural balance
+59F9,France,FR,,,,Groupement foncier agricole,French,fr,Groupement foncier agricole,,,11/30/17,ACTV,,,,Agricultural Land Grouping
+5AJO,France,FR,,,,Caisse d'Épargne et de Prévoyance,French,fr,Caisse d'Épargne et de Prévoyance,,,11/30/17,ACTV,,,,savings and provident fund
+5H68,France,FR,,,,Commerçant,French,fr,Commerçant,,,11/30/17,INAC,legislation change,7/1/18,"due to a change in French legislation, this legal form has changed into the new code ZY9X",Dealer
+5K0Q,France,FR,,,,Établissement public local social et médico-social,French,fr,Établissement public local social et médico-social,,,11/30/17,ACTV,,,,local public social and medico-social establishment
+5VCF,France,FR,,,,SA à directoire (s.a.i.),French,fr,SA à directoire (s.a.i.),,,11/30/17,ACTV,,,,
+61WE,France,FR,,,,Institution de retraite supplémentaire,French,fr,Institution de retraite supplémentaire,,,11/30/17,ACTV,,,,
+66JQ,France,FR,,,,Syndicat de copropriété,French,fr,Syndicat de copropriété,,,11/30/17,ACTV,,,,
+6CHY,France,FR,,,fr,Société par actions simplifiée,French,fr,Société par actions simplifiée,S.A.S.;SAS,,11/30/17,ACTV,,,,
+6CJJ,France,FR,,,,SCP de géométres experts,French,fr,SCP de géométres experts,S.C.P.;SCP,,11/30/17,ACTV,,,,Professional Civil Society of land surveyors
+6DYI,France,FR,,,fr,Société de Participations Financiéres de Profession Libérale Société à responsabilité limitée (SPFPL SARL),French,fr,Société de Participations Financiéres de Profession Libérale Société à responsabilité limitée (SPFPL SARL),SPFPL;SARL SPFPL,,11/30/17,ACTV,,,,
+6IIE,France,FR,,,,SA coopérative (d'intérêt) maritime à conseil d'administration,French,fr,SA coopérative (d'intérêt) maritime à conseil d'administration,,,11/30/17,ACTV,,,,
+6KWU,France,FR,,,,Société d'exercice libéral en commandite par actions,French,fr,Société d'exercice libéral en commandite par actions,SELCA,,11/30/17,ACTV,,,,private practice limited partnership limited by shares
+6RUE,France,FR,,,,Groupement européen d'intérêt économique (GEIE),French,fr,Groupement européen d'intérêt économique (GEIE),,,11/30/17,ACTV,,,,
+6SYJ,France,FR,,,,SA de HLM à directoire,French,fr,SA de HLM à directoire,,,11/30/17,ACTV,,,,
+6YHU,France,FR,,,,SA d'intérêt collectif agricole (SICA) à conseil d'administration,French,fr,SA d'intérêt collectif agricole (SICA) à conseil d'administration,,,11/30/17,ACTV,,,,
+74HH,France,FR,,,,SCP de vétérinaires,French,fr,SCP de vétérinaires,S.C.P.;SCP,,11/30/17,ACTV,,,,Professional Civil Society of veterinarians
+7O94,France,FR,,,,Groupement forestier,French,fr,Groupement forestier,,,11/30/17,ACTV,,,,
+7SZH,France,FR,,,,Autre groupement de droit privé non doté de la personnalité morale,French,fr,Autre groupement de droit privé non doté de la personnalité morale,,,11/30/17,ACTV,,,,
+7UHA,France,FR,,,,Collectivité et territoire d'Outre Mer,French,fr,Collectivité et territoire d'Outre Mer,,,11/30/17,ACTV,,,,
+82QO,France,FR,,,,Service déconcentré de l'État à compétence (inter) départementale,French,fr,Service déconcentré de l'État à compétence (inter) départementale,,,11/30/17,ACTV,,,,
+87VO,France,FR,,,,Safer anonyme à directoire,French,fr,Safer anonyme à directoire,,,11/30/17,ACTV,,,,
+8FZW,France,FR,,,,SCP de conseils juridiques,French,fr,SCP de conseils juridiques,S.C.P.;SCP,,11/30/17,ACTV,,,,Professional Civil Society of legal counsels
+8G07,France,FR,,,,(Autre) Personne physique,French,fr,(Autre) Personne physique,,,11/30/17,INAC,legislation change,7/1/18,"due to a change in French legislation, this legal form has changed into the new code ZY9X",(Other) Natural person
+8GTU,France,FR,,,,(Autre) Service déconcentré de l'État à compétence territoriale,French,fr,(Autre) Service déconcentré de l'État à compétence territoriale,,,11/30/17,ACTV,,,,(Other) Deconcentrated State service with territorial jurisdiction
+8II5,France,FR,,,,Autre SA coopérative à conseil d'administration,French,fr,Autre SA coopérative à conseil d'administration,,,11/30/17,ACTV,,,,
+8IWA,France,FR,,,,Commune associée et commune déléguée,French,fr,Commune associée et commune déléguée,,,11/30/17,ACTV,,,,Associated municipality and delegated municipality
+8LX5,France,FR,,,,Autre régime de prévoyance sociale,French,fr,Autre régime de prévoyance sociale,,,11/30/17,ACTV,,,,Other social security scheme
+8OKM,France,FR,,,,Service déconcentré à compétence nationale d'un ministére (hors Défense),French,fr,Service déconcentré à compétence nationale d'un ministére (hors Défense),,,11/30/17,ACTV,,,,
+8R2G,France,FR,,,,Société civile immobilière de construction-vente,French,fr,Société civile immobilière de construction-vente,,,11/30/17,ACTV,typo corrected,7/5/19,typo corrected,Civil construction-sale real estate company
+8TYA,France,FR,,,,Autre SA coopérative à directoire,French,fr,Autre SA coopérative à directoire,,,11/30/17,ACTV,,,,
+8VDW,France,FR,,,,Société d'assurance à forme mutuelle,French,fr,Société d'assurance à forme mutuelle,,,11/30/17,ACTV,,,,Mutual insurance company
+8VWR,France,FR,,,,SA d'économie mixte à conseil d'administration,French,fr,SA d'économie mixte à conseil d'administration,,,11/30/17,ACTV,,,,Semi-public limited company with a board of directors
+8WH8,France,FR,,,,Autre personne morale de droit étranger,French,fr,Autre personne morale de droit étranger,,,11/30/17,ACTV,,,,
+8XDK,France,FR,,,,SA d'aménagement foncier et d'équipement rural (SAFER) à conseil d'administration,French,fr,SA d'aménagement foncier et d'équipement rural (SAFER) à conseil d'administration,,,11/30/17,ACTV,,,,
+94WO,France,FR,,,,District urbain,French,fr,District urbain,,,11/30/17,ACTV,,,,Urban district
+97PZ,France,FR,,,,SARL coopérative d'intérêt maritime,French,fr,SARL coopérative d'intérêt maritime,,,11/30/17,ACTV,,,,
+9HC8,France,FR,,,,Société en participation entre personnes physiques,French,fr,Société en participation entre personnes physiques,,,11/30/17,ACTV,,,,Undeclared partnership between natural persons
+9KU7,France,FR,,,,Union de sociétés coopératives agricoles,French,fr,Union de sociétés coopératives agricoles,,,11/30/17,ACTV,,,,
+9N1F,France,FR,,,fr,SA d'intérêt collectif agricole (SICA),French,fr,SA d'intérêt collectif agricole (SICA),S.I.C.A;SICA,,11/30/17,ACTV,,,,
+9O0S,France,FR,,,,Association fonciére urbaine,French,fr,Association fonciére urbaine,,,11/30/17,ACTV,,,,
+9T5S,France,FR,,,,Fondation,French,fr,Fondation,,,11/30/17,ACTV,,,,
+A0VZ,France,FR,,,,SCP d'architectes,French,fr,SCP d'architectes,S.C.P.;SCP,,11/30/17,ACTV,,,,Professional Civil Society of architects
+AHBR,France,FR,,,,SA à participation ouvriére à directoire,French,fr,SA à participation ouvriére à directoire,,,11/30/17,ACTV,,,,
+AMFI,France,FR,,,,Autorité constitutionnelle,French,fr,Autorité constitutionnelle,,,11/30/17,ACTV,,,,
+B645,France,FR,,,,SA d'attribution à conseil d'administration,French,fr,SA d'attribution à conseil d'administration,,,11/30/17,ACTV,,,,
+B7I7,France,FR,,,,SA coopérative artisanale à conseil d'administration,French,fr,SA coopérative artisanale à conseil d'administration,,,11/30/17,ACTV,,,,
+BAK2,France,FR,,,,Exploitation agricole à responsabilité limitée,French,fr,Exploitation agricole à responsabilité limitée,,,11/30/17,ACTV,,,,
+BAUQ,France,FR,,,,SA de crédit immobilier à conseil d'administration,French,fr,SA de crédit immobilier à conseil d'administration,,,11/30/17,ACTV,,,,
+BDDP,France,FR,,,,SCP d'infirmiers,French,fr,SCP d'infirmiers,S.C.P.;SCP,,11/30/17,ACTV,,,,Professional Civil Society of nurses
+BEWI,France,FR,,,,Association déclarée,French,fr,Association déclarée,,,11/30/17,ACTV,,,,
+BRGA,France,FR,,,,SA immobilière d'investissement à conseil d'administration,French,fr,SA immobilière d'investissement à conseil d'administration,,,11/30/17,ACTV,typo corrected,7/5/19,typo corrected,
+BYZF,France,FR,,,,Paroisse hors zone concordataire,French,fr,Paroisse hors zone concordataire,,,11/30/17,ACTV,,,,
+C42J,France,FR,,,,SARL immobilière de gestion,French,fr,SARL immobilière de gestion,,,11/30/17,ACTV,typo corrected,7/5/19,typo corrected,
+C4D7,France,FR,,,,Ensemble urbain,French,fr,Ensemble urbain,,,11/30/17,ACTV,,,,
+CAX5,France,FR,,,,Régime général de la Sécurité Sociale,French,fr,Régime général de la Sécurité Sociale,,,11/30/17,ACTV,,,,
+CBO2,France,FR,,,,Service du ministére de la Défense,French,fr,Service du ministére de la Défense,,,11/30/17,ACTV,,,,
+CF56,France,FR,,,,Mutualité sociale agricole,French,fr,Mutualité sociale agricole,,,11/30/17,ACTV,,,,
+CNSS,France,FR,,,,Société en participation de professions libérales,French,fr,Société en participation de professions libérales,,,11/30/17,ACTV,,,,Undeclared partnership of liberal professions
+CNXL,France,FR,,,,Artisan-commerçant,French,fr,Artisan-commerçant,,,11/30/17,INAC,legislation change,7/1/18,"due to a change in French legislation, this legal form has changed into the new code ZY9X",
+CQJI,France,FR,,,,Région,French,fr,Région,,,11/30/17,ACTV,,,,
+CVH6,France,FR,,,,SARL d'aménagement foncier et d'équipement rural (SAFER),French,fr,SARL d'aménagement foncier et d'équipement rural (SAFER),,,11/30/17,ACTV,,,,
+D2I2,France,FR,,,,Syndicat intercommunal à vocation multiple (SIVOM),French,fr,Syndicat intercommunal à vocation multiple (SIVOM),,,11/30/17,ACTV,,,,
+DEG4,France,FR,,,,Société en commandite par actions,French,fr,Société en commandite par actions,,,11/30/17,ACTV,,,,
+DRQM,France,FR,,,,SA coopérative de construction à conseil d'administration,French,fr,SA coopérative de construction à conseil d'administration,,,11/30/17,ACTV,,,,
+DTAX,France,FR,,,,Autre organisme mutualiste,French,fr,Autre organisme mutualiste,,,11/30/17,ACTV,,,,
+DWYD,France,FR,,,,Association déclarée d'insertion par l'économique,French,fr,Association déclarée d'insertion par l'économique,,,11/30/17,ACTV,,,,
+DXQH,France,FR,,,,Société civile fonciére,French,fr,Société civile fonciére,,,11/30/17,ACTV,,,,
+E0YF,France,FR,,,,SA coopérative d'intérêt maritime à directoire,French,fr,SA coopérative d'intérêt maritime à directoire,,,11/30/17,ACTV,,,,
+E6YB,France,FR,,,,Caisse (fédérale) de crédit mutuel,French,fr,Caisse (fédérale) de crédit mutuel,,,11/30/17,ACTV,,,,
+EABD,France,FR,,,,Société civile coopérative entre médecins,French,fr,Société civile coopérative entre médecins,,,11/30/17,ACTV,,,,
+EAC8,France,FR,,,,Société coopérative de production de HLM anonyme à directoire,French,fr,Société coopérative de production de HLM anonyme à directoire,,,11/30/17,ACTV,,,,
+ECUL,France,FR,,,,Secteur de commune,French,fr,Secteur de commune,,,11/30/17,ACTV,,,,
+EVYY,France,FR,,,,Caisse de crédit maritime mutuel,French,fr,Caisse de crédit maritime mutuel,,,11/30/17,ACTV,,,,
+EYRI,France,FR,,,,Centre technique industriel ou comité professionnel du développement économique,French,fr,Centre technique industriel ou comité professionnel du développement économique,,,11/30/17,ACTV,,,,
+F0B6,France,FR,,,,Société en commandite simple coopérative,French,fr,Société en commandite simple coopérative,,,11/30/17,ACTV,,,,
+F6SZ,France,FR,,,,SA coopérative ouvriére de production (SCOP) à directoire,French,fr,SA coopérative ouvriére de production (SCOP) à directoire,,,11/30/17,ACTV,,,,
+F72Z,France,FR,,,,Établissement public national à caractére industriel ou commercial doté d'un comptable public,French,fr,Établissement public national à caractére industriel ou commercial doté d'un comptable public,,,11/30/17,ACTV,,,,
+F8UD,France,FR,,,,SCP d'avoués d'appel,French,fr,SCP d'avoués d'appel,S.C.P.;SCP,,11/30/17,ACTV,,,,Professional Civil Society of solicitors of appeal
+F93F,France,FR,,,,SA immobilière pour le commerce et l'industrie (SICOMI) à conseil d'administration,French,fr,SA immobilière pour le commerce et l'industrie (SICOMI) à conseil d'administration,,,11/30/17,ACTV,typo corrected,7/5/19,typo corrected,
+FBYB,France,FR,,,,Représentation ou agence commerciale d'état ou organisme public étranger immatriculé au RCS,French,fr,Représentation ou agence commerciale d'état ou organisme public étranger immatriculé au RCS,,,11/30/17,ACTV,,,,
+FEEA,France,FR,,,,Établissement public national ayant fonction d'administration centrale,French,fr,Établissement public national ayant fonction d'administration centrale,,,11/30/17,ACTV,,,,
+FFQL,France,FR,,,,Commune et commune nouvelle,French,fr,Commune et commune nouvelle,,,11/30/17,ACTV,,,,
+FKG2,France,FR,,,,Organisation internationale,French,fr,Organisation internationale,,,11/30/17,ACTV,,,,
+FOUY,France,FR,,,,SCP de commissaires aux comptes,French,fr,SCP de commissaires aux comptes,S.C.P.;SCP,,11/30/17,ACTV,,,,Professional Civil Society of statutory auditors
+FY0F,France,FR,,,,Société civile immobilière,French,fr,Société civile immobilière,,,11/30/17,ACTV,typo corrected,7/5/19,typo corrected,
+FYBN,France,FR,,,fr,SARL mixte d'intérêt agricole (SMIA),French,fr,SARL mixte d'intérêt agricole (SMIA),SMIA,,11/30/17,ACTV,,,,
+G7Z2,France,FR,,,,SARL coopérative de construction,French,fr,SARL coopérative de construction,,,11/30/17,ACTV,,,,
+G8LP,France,FR,,,,Sociétés Interprofessionnelles de Soins Ambulatoires ,French,fr,Sociétés Interprofessionnelles de Soins Ambulatoires ,,,11/30/17,ACTV,,,,
+G98S,France,FR,,,,Ordre professionnel ou assimilé,French,fr,Ordre professionnel ou assimilé,,,11/30/17,ACTV,,,,
+GFN6,France,FR,,,,SA coopérative de commerçants-détaillants à conseil d'administration,French,fr,SA coopérative de commerçants-détaillants à conseil d'administration,,,11/30/17,ACTV,,,,
+GJJJ,France,FR,,,,Société d'exercice libéral à responsabilité limitée à associé unique,French,fr,Société d'exercice libéral à responsabilité limitée à associé unique,,,7/5/19,ACTV,,,,sole proprietorship with limited liability and sole partner
+GLN8,France,FR,,,,Centre Intercommunal d'action sociale (CIAS),French,fr,Centre Intercommunal d'action sociale (CIAS),,,11/30/17,ACTV,,,,
+GQV4,France,FR,,,,SA immobilière pour le commerce et l'industrie (SICOMI) à directoire,French,fr,SA immobilière pour le commerce et l'industrie (SICOMI) à directoire,,,11/30/17,ACTV,typo corrected,7/5/19,typo corrected,
+GXL6,France,FR,,,,Autre établissement public national d'enseignement,French,fr,Autre établissement public national d'enseignement,,,11/30/17,ACTV,,,,
+GZCQ,France,FR,,,,SCP de greffiers de tribunal de commerce,French,fr,SCP de greffiers de tribunal de commerce,S.C.P.;SCP,,11/30/17,ACTV,,,,Professional Civil Society of commercial court clerks
+H1U2,France,FR,,,fr,Société en nom collectif,French,fr,Société en nom collectif,SNC,,11/30/17,ACTV,,,,General partnership
+H3Z4,France,FR,,,,SA coopérative de transport à directoire,French,fr,SA coopérative de transport à directoire,,,11/30/17,ACTV,,,,
+H3ZD,France,FR,,,,SARL d'intérêt collectif agricole (SICA),French,fr,SARL d'intérêt collectif agricole (SICA),,,11/30/17,ACTV,,,,
+H4VR,France,FR,,,,Société civile coopérative de consommation,French,fr,Société civile coopérative de consommation,,,11/30/17,ACTV,,,,
+HA3N,France,FR,,,,Caisse de crédit municipal,French,fr,Caisse de crédit municipal,,,11/30/17,ACTV,,,,
+HATI,France,FR,,,,Association intermédiaire,French,fr,Association intermédiaire,,,11/30/17,ACTV,,,,
+HC8N,France,FR,,,,SARL union de sociétés coopératives,French,fr,SARL union de sociétés coopératives,,,11/30/17,ACTV,,,,
+HF2L,France,FR,,,,"Association de droit local (Bas-Rhin, Haut-Rhin et Moselle)",French,fr,"Association de droit local (Bas-Rhin, Haut-Rhin et Moselle)",,,11/30/17,ACTV,,,,
+HMEI,France,FR,,,,Autre société civile coopérative,French,fr,Autre société civile coopérative,,,11/30/17,ACTV,,,,
+HSYZ,France,FR,,,,Autre société civile professionnelle,French,fr,Autre société civile professionnelle,,,11/30/17,ACTV,,,,
+I0MH,France,FR,,,,Société civile coopérative de construction,French,fr,Société civile coopérative de construction,,,11/30/17,ACTV,,,,
+I8TE,France,FR,,,,SA mixte d'intérêt agricole (SMIA),French,fr,SA mixte d'intérêt agricole (SMIA),,,11/30/17,ACTV,,,,
+IAP3,France,FR,,,,Syndicat intercommunal à vocation unique (SIVU),French,fr,Syndicat intercommunal à vocation unique (SIVU),,,11/30/17,ACTV,,,,
+IC8G,France,FR,,,,SCP d'avocats aux conseils,French,fr,SCP d'avocats aux conseils,S.C.P.;SCP,,11/30/17,ACTV,,,,Professional Civil Society of Lawyers to Counsel
+IC98,France,FR,,,,SCP de commissaires-priseurs,French,fr,SCP de commissaires-priseurs,S.C.P.;SCP,,11/30/17,ACTV,,,,Professional Civil Society of auctioneers
+IF7H,France,FR,,,,SA coopérative de consommation à conseil d'administration,French,fr,SA coopérative de consommation à conseil d'administration,,,11/30/17,ACTV,,,,
+IGSV,France,FR,,,,Société civile laitiére,French,fr,Société civile laitiére,,,11/30/17,ACTV,,,,
+IQR2,France,FR,,,,Société civile d'intérêt collectif agricole (SICA),French,fr,Société civile d'intérêt collectif agricole (SICA),,,11/30/17,ACTV,,,,
+J9OZ,France,FR,,,fr,Société d'exercice libéral à responsabilité limitée,French,fr,Société d'exercice libéral à responsabilité limitée,SELARL;(SELARL),,11/30/17,ACTV,,,,private limited company
+JBIQ,France,FR,,,,Institution de prévoyance,French,fr,Institution de prévoyance,,,11/30/17,ACTV,,,,
+JFET,France,FR,,,,Société de Participations Financiéres de Profession Libérale Société anonyme à Directoire (SPFPL SA à directoire),French,fr,Société de Participations Financiéres de Profession Libérale Société anonyme à Directoire (SPFPL SA à directoire),,,11/30/17,ACTV,,,,
+JIYK,France,FR,,,,Syndicat inter hospitalier,French,fr,Syndicat inter hospitalier,,,11/30/17,ACTV,,,,
+JM1W,France,FR,,,,SCP de dentistes,French,fr,SCP de dentistes,S.C.P.;SCP,,11/30/17,ACTV,,,,Professional Civil Society of dentists
+JMO0,France,FR,,,,Commission syndicale pour la gestion des biens indivis des communes,French,fr,Commission syndicale pour la gestion des biens indivis des communes,,,11/30/17,ACTV,,,,
+JN2P,France,FR,,,,SARL unipersonnelle,French,fr,SARL unipersonnelle,SARL,,11/30/17,ACTV,,,,
+JR7T,France,FR,,,,SARL nationale,French,fr,SARL nationale,SARL,,11/30/17,ACTV,,,,
+JU82,France,FR,,,,Ministére,French,fr,Ministére,,,11/30/17,ACTV,,,,
+K39X,France,FR,,,,SA union de sociétés coopératives à conseil d'administration,French,fr,SA union de sociétés coopératives à conseil d'administration,,,11/30/17,ACTV,,,,
+K5KA,France,FR,,,,Régie d'une collectivité locale à caractére industriel ou commercial,French,fr,Régie d'une collectivité locale à caractére industriel ou commercial,,,11/30/17,ACTV,,,,
+K65D,France,FR,,,,SA à conseil d'administration (s.a.i.),French,fr,SA à conseil d'administration (s.a.i.),,,11/30/17,ACTV,,,,
+K69X,France,FR,,,,SA de crédit immobilier à directoire,French,fr,SA de crédit immobilier à directoire,,,11/30/17,ACTV,,,,
+K7XQ,France,FR,,,,Établissement public national à caractére scientifique culturel et professionnel,French,fr,Établissement public national à caractére scientifique culturel et professionnel,,,11/30/17,ACTV,,,,
+K99N,France,FR,,,,Comité d'établissement,French,fr,Comité d'établissement,,,11/30/17,ACTV,,,,
+KBEQ,France,FR,,,,Société civile immobilière d' accession progressive à la propriété,French,fr,Société civile immobilière d' accession progressive à la propriété,,,11/30/17,ACTV,typo corrected,7/5/19,typo corrected,
+KCN5,France,FR,,,,"Etablissement public administratif, cercle et foyer dans les armées",French,fr,"Etablissement public administratif, cercle et foyer dans les armées",,,11/30/17,ACTV,,,,
+KFR1,France,FR,,,,Artisan,French,fr,Artisan,,,11/30/17,INAC,legislation change,7/1/18,"due to a change in French legislation, this legal form has changed into the new code ZY9X",
+KMPN,France,FR,,,,Établissement public national à caractére administratif,French,fr,Établissement public national à caractére administratif,,,11/30/17,ACTV,,,,
+KQH7,France,FR,,,,Société civile d'attribution,French,fr,Société civile d'attribution,,,11/30/17,ACTV,,,,
+KS9B,France,FR,,,,Syndicat patronal,French,fr,Syndicat patronal,,,11/30/17,ACTV,,,,
+KWI4,France,FR,,,,SCP de masseurs-kinésithérapeutes,French,fr,SCP de masseurs-kinésithérapeutes,S.C.P.;SCP,,11/30/17,ACTV,,,,Professional Civil Society of masseur-physiotherapists
+L25Z,France,FR,,,,Société anonyme mixte d'intérêt agricole (SMIA) à conseil d'administration,French,fr,Société anonyme mixte d'intérêt agricole (SMIA) à conseil d'administration,,,11/30/17,ACTV,,,,
+L6QO,France,FR,,,,Régime spécial de Sécurité Sociale,French,fr,Régime spécial de Sécurité Sociale,,,11/30/17,ACTV,,,,Special Social Security Scheme
+LARO,France,FR,,,,Société par actions simplifiée à associé unique ou société par actions simplifiée unipersonnelle,French,fr,Société par actions simplifiée à associé unique ou société par actions simplifiée unipersonnelle,,,11/30/17,ACTV,,,,Simplified joint-stock company with single partner or simplified one-person joint-stock company
+LGME,France,FR,,,,SA à participation ouvriére à conseil d'administration,French,fr,SA à participation ouvriére à conseil d'administration,,,11/30/17,ACTV,,,,Public limited company with employee shareholding and board of directors
+LU8S,France,FR,,,,Associé gérant de Société,French,fr,Associé gérant de Société,,,11/30/17,INAC,legislation change,7/1/18,"due to a change in French legislation, this legal form has changed into the new code ZY9X",Managing Partner of the Company
+LUIN,France,FR,,,,SARL immobilière pour le commerce et l'industrie (SICOMI),French,fr,SARL immobilière pour le commerce et l'industrie (SICOMI),,,11/30/17,ACTV,typo corrected,7/5/19,typo corrected,SARL real estate for trade and industry
+M1BJ,France,FR,,,,Société civile de moyens,French,fr,Société civile de moyens,,,11/30/17,ACTV,,,,Civil society of resources
+M673,France,FR,,,,Société civile d'exploitation agricole,French,fr,Société civile d'exploitation agricole,,,11/30/17,ACTV,,,,Civil Agricultural Society
+MG2O,France,FR,,,,Institution interdépartementale ou entente,French,fr,Institution interdépartementale ou entente,,,11/30/17,ACTV,,,,Interdepartmental institution or agreement
+MMA4,France,FR,,,,SA union de sociétés coopératives à directoire,French,fr,SA union de sociétés coopératives à directoire,,,11/30/17,ACTV,,,,
+MOUL,France,FR,,,,Assurance mutuelle agricole,French,fr,Assurance mutuelle agricole,,,11/30/17,ACTV,,,,Agricultural mutual insurance
+MQPZ,France,FR,,,,Caisse d'épargne et de prévoyance à forme coopérative,French,fr,Caisse d'épargne et de prévoyance à forme coopérative,,,11/30/17,ACTV,,,,
+MQU9,France,FR,,,,Organisme de placement collectif en valeurs mobilières,French,fr,Organisme de placement collectif en valeurs mobilières,,,7/5/19,ACTV,,,,
+MX8J,France,FR,,,,SA coopérative de commerçants-détaillants à directoire,French,fr,SA coopérative de commerçants-détaillants à directoire,,,11/30/17,ACTV,,,,
+NBA8,France,FR,,,,Autre établissement public national administratif à compétence territoriale limitée,French,fr,Autre établissement public national administratif à compétence territoriale limitée,,,11/30/17,ACTV,,,,
+NFCV,France,FR,,,,Association coopérative inscrite (droit local Alsace Moselle),French,fr,Association coopérative inscrite (droit local Alsace Moselle),,,11/30/17,ACTV,,,,
+NM07,France,FR,,,,SA immobilière d'investissement à directoire,French,fr,SA immobilière d'investissement à directoire,,,11/30/17,ACTV,typo corrected,7/5/19,typo corrected,
+NOI8,France,FR,,,,Communauté d'agglomération,French,fr,Communauté d'agglomération,,,11/30/17,ACTV,,,,
+NQCT,France,FR,,,,(Autre) Établissement public administratif local,French,fr,(Autre) Établissement public administratif local,,,11/30/17,ACTV,,,,
+NUMY,France,FR,,,,SA coopérative artisanale à directoire,French,fr,SA coopérative artisanale à directoire,,,11/30/17,ACTV,,,,
+OAGA,France,FR,,,,Régime vieillesse ne dépendant pas du régime général de la Sécurité Sociale,French,fr,Régime vieillesse ne dépendant pas du régime général de la Sécurité Sociale,,,11/30/17,ACTV,,,,
+OIQA,France,FR,,,,Autre organisme professionnel,French,fr,Autre organisme professionnel,,,11/30/17,ACTV,,,,Other professional organization
+OLJ1,France,FR,,,,Syndicat mixte fermé,French,fr,Syndicat mixte fermé,,,11/30/17,ACTV,,,,Closed Joint Syndicate
+OSLZ,France,FR,,,,Société coopérative de banque populaire,French,fr,Société coopérative de banque populaire,,,11/30/17,ACTV,,,,People's Bank Cooperative Society
+OWUN,France,FR,,,,Communauté de communes,French,fr,Communauté de communes,,,11/30/17,ACTV,,,,Community of communes
+P3J5,France,FR,,,,Centre communal d'action sociale,French,fr,Centre communal d'action sociale,,,11/30/17,ACTV,,,,Communal center for social action
+P714,France,FR,,,,Association fonciére de remembrement,French,fr,Association fonciére de remembrement,,,11/30/17,ACTV,,,,Land consolidation association
+PESN,France,FR,,,,Indivision avec personne morale,French,fr,Indivision avec personne morale,,,11/30/17,ACTV,,,,Indivision with a legal person
+PL6V,France,FR,,,,Établissement public local culturel,French,fr,Établissement public local culturel,,,11/30/17,ACTV,,,,Local cultural public institution
+PWKL,France,FR,,,,Congrégation,French,fr,Congrégation,,,11/30/17,ACTV,,,,Congregation
+PZLG,France,FR,,,,Métropole,French,fr,Métropole,,,11/30/17,ACTV,,,,Metropolis
+Q2A1,France,FR,,,,Société commerciale étrangére immatriculée au RCS,French,fr,Société commerciale étrangére immatriculée au RCS,,,11/30/17,ACTV,,,,Foreign commercial company registered with the RCS
+Q634,France,FR,,,,Indivision entre personnes physiques,French,fr,Indivision entre personnes physiques,,,11/30/17,ACTV,,,,Joint ownership between natural persons
+Q8E2,France,FR,,,,Société en nom collectif coopérative,French,fr,Société en nom collectif coopérative,SNC,,11/30/17,ACTV,,,,Cooperative General Partnership
+QCWO,France,FR,,,,Groupement agricole d'exploitation en commun (GAEC),French,fr,Groupement agricole d'exploitation en commun (GAEC),,,11/30/17,ACTV,,,,
+QU3G,France,FR,,,,SA coopérative de production de HLM à conseil d'administration,French,fr,SA coopérative de production de HLM à conseil d'administration,,,11/30/17,ACTV,,,,
+QUB4,France,FR,,,,Organisme consulaire,French,fr,Organisme consulaire,,,11/30/17,ACTV,,,,Consular body
+QV2O,France,FR,,,,Société d'exercice libéral à forme anonyme à directoire,French,fr,Société d'exercice libéral à forme anonyme à directoire,,,11/30/17,ACTV,,,,private practice company in the form of a public limited company with a management board
+QVPB,France,FR,,,fr,Société anonyme,French,fr,Société anonyme,SA,,7/5/19,ACTV,,,,Public limited company
+R0B6,France,FR,,,fr,Groupement d'intérêt économique (GIE),French,fr,Groupement d'intérêt économique (GIE),GIE;G I E,,11/30/17,ACTV,,,,Economic Interest Grouping
+R1JO,France,FR,,,,Communauté urbaine,French,fr,Communauté urbaine,,,11/30/17,ACTV,,,,Urban community
+R59A,France,FR,,,,Société en commandite par actions coopérative,French,fr,Société en commandite par actions coopérative,,,11/30/17,ACTV,,,,Co-operative limited partnership limited by shares
+R6WQ,France,FR,,,,Groupement de coopération sanitaire à gestion publique,French,fr,Groupement de coopération sanitaire à gestion publique,,,11/30/17,ACTV,,,,Publicly managed health cooperation group
+RD0Z,France,FR,,,,Fiducie,French,fr,Fiducie,,,11/30/17,ACTV,,,,Trust
+RFWH,France,FR,,,,Groupement foncier et rural,French,fr,Groupement foncier et rural,,,11/30/17,ACTV,,,,Land and Rural Grouping
+RNJZ,France,FR,,,,Société de Participations Financiéres de Profession Libérale Société en commandite par actions (SPFPL SCA),French,fr,Société de Participations Financiéres de Profession Libérale Société en commandite par actions (SPFPL SCA),,,11/30/17,ACTV,,,,
+RNSB,France,FR,,,,Société étrangére non immatriculée au RCS,French,fr,Société étrangére non immatriculée au RCS,,,11/30/17,ACTV,,,,Foreign company not registered with the RCS
+RT39,France,FR,,,,Société créée de fait avec personne morale,French,fr,Société créée de fait avec personne morale,,,11/30/17,ACTV,,,,De facto company with legal person
+RT6Y,France,FR,,,,Agent commercial,French,fr,Agent commercial,,,11/30/17,INAC,legislation change,7/1/18,"due to a change in French legislation, this legal form has changed into the new code ZY9X",Commercial agent
+RWMC,France,FR,,,,Communauté de villes,French,fr,Communauté de villes,,,11/30/17,ACTV,,,,
+S0X8,France,FR,,,,Caisse de crédit agricole mutuel,French,fr,Caisse de crédit agricole mutuel,,,11/30/17,ACTV,,,,
+S82R,France,FR,,,,Société de Participations Financiéres de Profession Libérale Société par actions simplifiée (SPFPL SAS),French,fr,Société de Participations Financiéres de Profession Libérale Société par actions simplifiée (SPFPL SAS),,,11/30/17,ACTV,,,,
+SMZ6,France,FR,,,,Société de Participations Financiéres de Profession Libérale Société anonyme à conseil d'administration (SPFPL SA à conseil d'administration),French,fr,Société de Participations Financiéres de Profession Libérale Société anonyme à conseil d'administration (SPFPL SA à conseil d'administration),,,11/30/17,ACTV,,,,
+SSHN,France,FR,,,,Régime d'assurance chômage,French,fr,Régime d'assurance chômage,,,11/30/17,ACTV,,,,Unemployment insurance scheme
+SWPX,France,FR,,,,SA coopérative de transport à conseil d'administration,French,fr,SA coopérative de transport à conseil d'administration,,,11/30/17,ACTV,,,,SA transport cooperative with board of directors
+SZ63,France,FR,,,,Service déconcentré de l'État à compétence (inter) régionale,French,fr,Service déconcentré de l'État à compétence (inter) régionale,,,11/30/17,ACTV,,,,Deconcentrated State service with (inter)regional competence
+T25Y,France,FR,,,,SCP d'avocats,French,fr,SCP d'avocats,S.C.P.;SCP,,11/30/17,ACTV,,,,Professional Civil Society of lawyers
+TGRE,France,FR,,,,Caisse des écoles,French,fr,Caisse des écoles,,,11/30/17,ACTV,,,,School Fund
+TNPO,France,FR,,,,Exploitant agricole,French,fr,Exploitant agricole,,,11/30/17,INAC,legislation change,7/1/18,"due to a change in French legislation, this legal form has changed into the new code ZY9X",Farmer
+TOL2,France,FR,,,,SA nationale à directoire,French,fr,SA nationale à directoire,,,11/30/17,ACTV,,,,
+TPNT,France,FR,,,,Société européenne,French,fr,Société européenne,,,11/30/17,ACTV,,,,
+TUE5,France,FR,,,,Office public d'habitation à loyer modéré (OPHLM),French,fr,Office public d'habitation à loyer modéré (OPHLM),,,11/30/17,ACTV,,,,
+UFM7,France,FR,,,,SA coopérative de construction à directoire,French,fr,SA coopérative de construction à directoire,,,11/30/17,ACTV,,,,
+UHKH,France,FR,,,,Société de caution mutuelle,French,fr,Société de caution mutuelle,,,11/30/17,ACTV,,,,
+UQRY,France,FR,,,,Ecole nationale non dotée de la personnalité morale,French,fr,Ecole nationale non dotée de la personnalité morale,,,11/30/17,ACTV,,,,
+UUT8,France,FR,,,,SCP de directeurs de laboratoire d'analyse médicale,French,fr,SCP de directeurs de laboratoire d'analyse médicale,S.C.P.;SCP,,11/30/17,ACTV,,,,Professional Civil Society of Medical Analysis Laboratory Managers
+UV02,France,FR,,,,Service central d'un ministére,French,fr,Service central d'un ministére,,,11/30/17,ACTV,,,,
+UZY3,France,FR,,,,Établissement d'hospitalisation,French,fr,Établissement d'hospitalisation,,,11/30/17,ACTV,,,,
+V1Z5,France,FR,,,,SARL coopérative ouvriére de production (SCOP),French,fr,SARL coopérative ouvriére de production (SCOP),,,11/30/17,ACTV,,,,
+V5SV,France,FR,,,,Société civile coopérative d'intérêt maritime,French,fr,Société civile coopérative d'intérêt maritime,,,11/30/17,ACTV,,,,
+V6G1,France,FR,,,,Régime maladie des non-salariés non agricoles,French,fr,Régime maladie des non-salariés non agricoles,,,11/30/17,ACTV,,,,
+V9QP,France,FR,,,fr,Société à responsabilité limitée (sans autre indication),French,fr,Société à responsabilité limitée (sans autre indication),S.A.R.L.;SARL,,11/30/17,ACTV,,,,
+VBC7,France,FR,,,,Institution Banque de France,French,fr,Institution Banque de France,,,11/30/17,ACTV,,,,
+VBQP,France,FR,,,,Fonds à forme sociétale à directoire,French,fr,Fonds à forme sociétale à directoire,,,11/30/17,ACTV,correction of name of legal form,7/5/19,name of legal form corrected,
+VD7Z,France,FR,,,,Société en commandite simple,French,fr,Société en commandite simple,,,11/30/17,ACTV,,,,Limited Partnership
+VJV5,France,FR,,,,SARL d'économie mixte,French,fr,SARL d'économie mixte,,,11/30/17,ACTV,,,,Semi-public limited company
+VO18,France,FR,,,,Établissement public local à caractére industriel ou commercial,French,fr,Établissement public local à caractére industriel ou commercial,,,11/30/17,ACTV,,,,Local public establishment of an industrial or commercial nature
+VTFS,France,FR,,,,SARL coopérative artisanale,French,fr,SARL coopérative artisanale,,,11/30/17,ACTV,,,,SARL artisanal cooperative
+W3LD,France,FR,,,,Groupement agricole foncier,French,fr,Groupement agricole foncier,,,11/30/17,ACTV,,,,Agricultural land group
+W4G1,France,FR,,,,SARL coopérative de transport,French,fr,SARL coopérative de transport,,,11/30/17,ACTV,,,,LLC transport cooperative
+WGCY,France,FR,,,,Groupement d'employeurs,French,fr,Groupement d'employeurs,,,11/30/17,ACTV,,,,Employer grouping
+WXNU,France,FR,,,,SCP d'huissiers,French,fr,SCP d'huissiers,S.C.P.;SCP,,11/30/17,ACTV,,,,Professional Civil Society of bailiffs
+X78I,France,FR,,,,Fonds à forme sociétale à conseil d'administration,French,fr,Fonds à forme sociétale à conseil d'administration,,,11/30/17,ACTV,correction of name of legal form,7/5/19,name of legal form corrected based on name change in France in April 2017,
+XH8C,France,FR,,,,"Association déclarée, reconnue d'utilité publique",French,fr,"Association déclarée, reconnue d'utilité publique",,,11/30/17,ACTV,,,,
+XK4T,France,FR,,,,Comité central d'entreprise,French,fr,Comité central d'entreprise,,,11/30/17,ACTV,,,,Central Works Council
+XPX6,France,FR,,,,SA coopérative ouvriére de production (SCOP) à conseil d'administration,French,fr,SA coopérative ouvriére de production (SCOP) à conseil d'administration,,,11/30/17,ACTV,,,,
+XQBA,France,FR,,,,Société en participation avec personne morale,French,fr,Société en participation avec personne morale,,,11/30/17,ACTV,,,,Undeclared partnership with legal person
+Y1W1,France,FR,,,,Section de commune,French,fr,Section de commune,,,11/30/17,ACTV,,,,Common Section
+Y4VA,France,FR,,,,Département,French,fr,Département,,,11/30/17,ACTV,,,,Department
+Y7G8,France,FR,,,,Caisse locale de crédit mutuel,French,fr,Caisse locale de crédit mutuel,,,11/30/17,ACTV,,,,Local mutual credit union
+Y8WC,France,FR,,,,Groupement de coopération sanitaire à gestion privée,French,fr,Groupement de coopération sanitaire à gestion privée,,,11/30/17,ACTV,,,,Grouping of privately managed health cooperation
+YADL,France,FR,,,,Autorité administrative ou publique indépendante,French,fr,Autorité administrative ou publique indépendante,,,11/30/17,ACTV,correction of name of legal form,7/5/19,name of legal form corrected based on name change in France in April 2017,Independent administrative or public authority
+YHI5,France,FR,,,,Pôle métropolitain,French,fr,Pôle métropolitain,,,11/30/17,ACTV,,,,Metropolitan hub
+YJM5,France,FR,,,,Officier public ou ministériel,French,fr,Officier public ou ministériel,,,11/30/17,INAC,legislation change,11/1/18,"due to a change in French legislation, this legal form has changed into the new code ZY9X",Public or ministerial officer
+YUCL,France,FR,,,,Institution de retraite complémentaire,French,fr,Institution de retraite complémentaire,,,11/30/17,ACTV,,,,Supplementary pension institution
+YX4E,France,FR,,,fr,Société civile de placement collectif immobilier (SCPI),French,fr,Société civile de placement collectif immobilier (SCPI),SCPI;S C P I,,11/30/17,ACTV,,,,non-trading property investment company
+Z0JP,France,FR,,,,Établissement public national à caractére industriel ou commercial non doté d'un comptable public,French,fr,Établissement public national à caractére industriel ou commercial non doté d'un comptable public,,,11/30/17,ACTV,,,,National public establishment of an industrial or commercial nature not having a public accountant
+Z2FQ,France,FR,,,,Groupement d'intérêt public (GIP),French,fr,Groupement d'intérêt public (GIP),,,11/30/17,ACTV,,,,Public Interest Grouping
+Z5WG,France,FR,,,,Groupement pastoral,French,fr,Groupement pastoral,,,11/30/17,ACTV,,,,Pastoral Grouping
+Z9K8,France,FR,,,,Association d'avocats à responsabilité professionnelle individuelle,French,fr,Association d'avocats à responsabilité professionnelle individuelle,,,11/30/17,ACTV,,,,Association of Lawyers with Individual Professional Responsibility
+ZECH,France,FR,,,,Syndicat mixte ouvert,French,fr,Syndicat mixte ouvert,,,11/30/17,ACTV,,,,Open Joint Syndicate
+ZM5P,France,FR,,,,SA d'économie mixte à directoire,French,fr,SA d'économie mixte à directoire,,,11/30/17,ACTV,,,,Semi-public limited company with management board
+ZPEZ,France,FR,,,,Association syndicale libre,French,fr,Association syndicale libre,,,11/30/17,ACTV,,,,Free Trade Union Association
+ZQ9B,France,FR,,,,Exploitant public,French,fr,Exploitant public,,,11/30/17,ACTV,,,,Public Operator
+ZQIT,France,FR,,,,SA coopérative de consommation à directoire,French,fr,SA coopérative de consommation à directoire,,,11/30/17,ACTV,,,,SA consumer cooperative with management board
+ZXHJ,France,FR,,,fr,Société d'exercice libéral à forme anonyme à conseil d'administration,French,fr,Société d'exercice libéral à forme anonyme à conseil d'administration,SOCIETE D EXERCICE LIBERAL A FORME ANONYME (SELAFA);SOCIETE D EXERCICE LIBERAL;SELAFA,,11/30/17,ACTV,,,,private practice company in the form of a public limited company with a board of directors
+ZY9X,France,FR,,,,Entrepreneur individuel,French,fr,Entrepreneur individuel,,,7/5/19,ACTV,,,,Sole proprietor
+ZZ0X,France,FR,,,,Établissement public des cultes d'Alsace-Lorraine,French,fr,Établissement public des cultes d'Alsace-Lorraine,,,11/30/17,ACTV,,,,public establishment of the cults of Alsace-Lorraine
 13AV,Germany,DE,,,de,Versicherungsverein auf Gegenseitigkeit,German,de,Versicherungsverein auf Gegenseitigkeit,VVaG,,11/30/17,ACTV,,,,
 2HBR,Germany,DE,,,de,Gesellschaft mit beschränkter Haftung,German,de,Gesellschaft mit beschränkter Haftung,GmbH,,11/30/17,ACTV,,,,
 2YZO,Germany,DE,,,de,Partnerschaftsgesellschaft mit beschränkter Berufshaftung,German,de,Partnerschaftsgesellschaft mit beschränkter Berufshaftung,PartG mbB,,11/30/17,ACTV,,,,
@@ -1112,7 +1120,7 @@ TKPE,Gibraltar,GI,,,gi,Private Trust Company,English,en,Private Trust Company,PT
 UUYB,Gibraltar,GI,,,gi,Public Limited Company ,English,en,Public Limited Company ,PLC,,11/30/17,ACTV,,,,
 VJRL,Gibraltar,GI,,,gi,Private Unlimited Company,English,en,Private Unlimited Company,,,11/30/17,ACTV,,,,
 WBKH,Gibraltar,GI,,,gi,Private Limited Company,English,en,Private Limited Company,Limited;Ltd;Ltd.,,11/30/17,ACTV,,,,
-Y8CL,Gibraltar,GI,,,gi,Limited Partnerships,English,en,Limited Partnerships,LP;limited partnership;Limited Partnership,,11/30/17,ACTV,,,,
+Y8CL,Gibraltar,GI,,,gi,Limited Partnership,English,en,Limited Partnership,LP;L.P.;L. P.,,11/30/17,ACTV,,,,
 3RHO,Greece,GR,,,gr,Ναυτική εταιρία,Greek,el,Naftiki eteria,SC,,11/30/17,ACTV,,,,
 54AL,Greece,GR,,,gr,Ετερόρρυθμη Εταιρία,Greek,el,Eterórithmi Etería,EE,,11/30/17,ACTV,,,,
 CQ5X,Greece,GR,,,gr,Ευρωπαϊκή Εταιρεία,Greek,el,Εvropaiki Εtaireia,,,11/30/17,ACTV,,,,
@@ -1132,7 +1140,7 @@ W2NK,Greece,GR,,,gr,Ανώνυμη Εταιρία,Greek,el,Anónimi Etería,SA,,
 9XFK,Guernsey,GG,,,gg,Foundation,English,en,Foundation,FDN.;Fdn.,,11/30/17,ACTV,,,,
 BVOE,Guernsey,GG,,,gg,Limited Company,English,en,Limited Company,Ltd;Ltd.;Limited,,11/30/17,ACTV,,,,
 Q49K,Guernsey,GG,,,gg,Limited Liability Partnership,English,en,Limited Liability Partnership,L.L.P.;LLP;Limited Liability Partnership,,11/30/17,ACTV,,,,
-UO3D,Guernsey,GG,,,gg,Limited Partnership,English,en,Limited Partnership,LP;limited partnership;Limited Partnership,,11/30/17,ACTV,typo corrected,7/5/19,typo corrected,
+UO3D,Guernsey,GG,,,gg,Limited Partnership,English,en,Limited Partnership,LP;L.P.;L. P.,,11/30/17,ACTV,typo corrected,7/5/19,typo corrected,
 254M,"Hong Kong, China",HK,,,hk,私人股份有限公司,Chinese,zh,Si ren gu fen you xian gong si,有限公司,,11/30/17,ACTV,,,,"private companies limited by shares, commonly referred to as ‘private limited companies’"
 254M,"Hong Kong, China",HK,,,hk,Private company limited by shares,English,en,Private company limited by shares,"Ltd;Ltd.;Limited;Co., Limited;Co., Ltd.;Co, Ltd;Co Ltd;Company Limited;LLC CO.,Limited;LLC Limited;L.L.C CO.,Limited;L.L.C Limited",,11/30/17,ACTV,,,,
 85VD,"Hong Kong, China",HK,,,hk,註冊受託人,Chinese,zh,zhu ce shou tuo ren,,,11/30/17,ACTV,,,,
@@ -1142,15 +1150,15 @@ E1SE,"Hong Kong, China",HK,,,hk,Entity established by Ordinance,English,en,Entit
 EPG7,"Hong Kong, China",HK,,,hk,公眾股份有限公司,Chinese,zh,Gong zhong gu fen  you xian gong si,有限公司,,11/30/17,ACTV,,,,
 EPG7,"Hong Kong, China",HK,,,hk,Public company limited by shares,English,en,Public company limited by shares,"Ltd;Ltd.;Limited;Co., Limited;Co., Ltd.;Co, Ltd;Co Ltd;Company Limited",,11/30/17,ACTV,,,,
 KSUS,"Hong Kong, China",HK,,,hk,非香港公司,Chinese,zh,fei xiang gang gong si,,,11/30/17,ACTV,,,,
-KSUS,"Hong Kong, China",HK,,,hk,Non-Hong Kong company,English,en,Non-Hong Kong company,LLC;L.L.C,,11/30/17,ACTV,,,,
+KSUS,"Hong Kong, China",HK,,,hk,Non-Hong Kong company,English,en,Non-Hong Kong company,LLC;L.L.C.,,11/30/17,ACTV,,,,
 N3VO,"Hong Kong, China",HK,,,hk,有股本的公眾無限公司,Chinese,zh,You gu ben de gong zhong wu xian gong si,無限公司,,11/30/17,ACTV,,,,
 N3VO,"Hong Kong, China",HK,,,hk,Public unlimited company with a share capital,English,en,Public unlimited company with a share capital,Unltd;Ultd,,11/30/17,ACTV,,,,
 S2E3,"Hong Kong, China",HK,,,hk,擔保有限公司,Chinese,zh,Dan bao  you xian gong si,有限公司,,11/30/17,ACTV,,,,
 S2E3,"Hong Kong, China",HK,,,hk,Company limited by guarantee,English,en,Company limited by guarantee,Ltd;Ltd.;Limited,,11/30/17,ACTV,,,,
 UDG6,"Hong Kong, China",HK,,,hk,有股本的私人無限公司,Chinese,zh,You gu ben de si ren wu xian gong si,無限公司,,11/30/17,ACTV,,,,
 UDG6,"Hong Kong, China",HK,,,hk,Private unlimited company with a share capital,English,en,Private unlimited company with a share capital,Unltd;Ultd,,11/30/17,ACTV,,,,
-XPE5,"Hong Kong, China",HK,,,hk,有限責任合夥,Chinese,zh,you xian ze ren he huo,LP;limited partnership;Limited Partnership,,11/30/17,ACTV,,,,
-XPE5,"Hong Kong, China",HK,,,hk,Limited partnership,English,en,Limited partnership,LP;limited partnership;Limited Partnership,,11/30/17,ACTV,,,,
+XPE5,"Hong Kong, China",HK,,,hk,有限責任合夥,Chinese,zh,you xian ze ren he huo,LP;L.P.;L. P.;Limited Partnership,,11/30/17,ACTV,,,,
+XPE5,"Hong Kong, China",HK,,,hk,Limited partnership,English,en,Limited Partnership,LP;L.P.;L. P.,,11/30/17,ACTV,,,,
 ,,HK,,,hk,Limited Liability Partnership,English,en,Limited Liability Partnership,L.L.P.;LLP;Limited Liability Partnership,,,,,,,
 4WV7,Hungary,HU,,,hu,Egyéb köztestület,Hungarian,hu,Egyéb köztestület,,,11/30/17,ACTV,,,,
 876R,Hungary,HU,,,hu,Egyéb egyesület,Hungarian,hu,Egyéb egyesület,,,11/30/17,ACTV,,,,
@@ -1311,14 +1319,14 @@ X62Z,Italy,IT,,,it,Consorzio Di Cui Alla Dlgs 267/2000,Italian,it,Consorzio Di C
 ZG6S,Italy,IT,,,it,Ente Pubblico Economico,Italian,it,Ente Pubblico Economico,,,11/30/17,ACTV,,,,
 ZU9S,Italy,IT,,,it,Piccola Società Cooperativa a Responsabilità Limitata,Italian,it,Piccola Societa' Cooperativa a Responsabilita' Limitata,,,7/5/19,ACTV,,,,
 ZZOG,Italy,IT,,,it,Società Tra Professionisti,Italian,it,Societa' Tra Professionisti,,,11/30/17,ACTV,,,,
-21F4,Jersey,JE,,,je,Separate Limited Partnerships,English,en,Separate Limited Partnerships,S.L.P.;SLP;Separate Limited Partnership;separate limited partnership;Separate Limited Partnerships;separate limited partnerships,,11/30/17,ACTV,,,,
-33IP,Jersey,JE,,,je,Incorporated Limited Partnerships,English,en,Incorporated Limited Partnerships,I.L.P.;ILP;Inc.;L. P.;Inc;LP.;Incorporated Limited Partnerships;incorporated limited partnership,,11/30/17,ACTV,,,,
+21F4,Jersey,JE,,,je,Separate Limited Partnership,English,en,Separate Limited Partnership,S.L.P.;SLP;Separate Limited Partnership,,11/30/17,ACTV,,,,
+33IP,Jersey,JE,,,je,Incorporated Limited Partnership,English,en,Incorporated Limited Partnership,I.L.P.;ILP;Inc.;L. P.;Inc;LP.;LP;L.P.;L. P.;Incorporated Limited Partnership,,11/30/17,ACTV,,,,
 40A7,Jersey,JE,,,je,Foundation,English,en,Foundation,,,11/30/17,ACTV,,,,
 7RZH,Jersey,JE,,,je,Limited Liability Partnership,English,en,Limited Liability Partnership,LLP;L.L.P.;limited liability partnership;Limited Liability Partnership,,11/30/17,ACTV,,,,
 JOX1,Jersey,JE,,,je,Public Limited Company,English,en,Public Limited Company,LTD;PLC;Limited,,11/30/17,ACTV,,,,
 LO9A,Jersey,JE,,,je,Private Limited by Guarantee,English,en,Private Limited by Guarantee,Ltd;Ltd.;Limited,,11/30/17,ACTV,,,,
 SQXV,Jersey,JE,,,je,Private Limited Company,English,en,Private Limited Company,LTD;A.R.L;Limited,,11/30/17,ACTV,,,,
-UBWU,Jersey,JE,,,je,Limited Partnership,English,en,Limited Partnership,L.P.;LP;limited partnership;Limited Partnership,,11/30/17,ACTV,,,,
+UBWU,Jersey,JE,,,je,Limited Partnership,English,en,Limited Partnership,LP;L.P.;L. P.,,11/30/17,ACTV,,,,
 ,,JP,,,jp,株式会社,Japanese,jp,kabushiki gaisha,(株);(㍿);㍿,K.K.,,,,,,"lit. ""stock company"", the most typical form of business corporation, usually translated in company names as ""Company, Limited""/""Co., Ltd."""
 ,,JP,,,jp,Stock company,English,en,,"Co., Ltd.;Co, Ltd;Company, Limited;Incorporated;Inc.;Inc;Corporation;Corp.",,,,,,,"Texts in England often refer to kabushiki gaisha as ""joint stock companies."" While that is close to a literal translation of the term, the two are not the same. The Japanese government once endorsed ""business corporation"" as an official translation but now uses more literal translation ""stock company."""
 ,,JP,,,jp,合同会社,Japanese,jp,gōdō gaisha,,G.K.,,,,,,"lit. ""amalgamated company"", a close corporation form similar to the American LLC, introduced in 2006"
@@ -1345,6 +1353,7 @@ AZTM,Latvia,LV,,,lv,Eiropas komercsabiedrība,Latvian,lv,Eiropas komercsabiedrī
 BS22,Latvia,LV,,,lv,Individuālais komersants,Latvian,lv,Individuālais komersants,IK,,11/30/17,ACTV,,,,
 ES2D,Latvia,LV,,,lv,Sabiedrība ar ierobežotu atbildību,Latvian,lv,Sabiedrība ar ierobežotu atbildību,SIA,,11/30/17,ACTV,,,,
 VJBO,Latvia,LV,,,lv,Akciju sabiedrība,Latvian,lv,Akciju sabiedrība,AS,,11/30/17,ACTV,,,,
+,,,,,lv,Biedrība,Latvian,lv,,,,,,,,,Society
 1DGT,Liechtenstein,LI,,,li,Treuunternehmen,German,de,Treuunternehmen,Trust reg.,,11/30/17,ACTV,,,,
 1SOY,Liechtenstein,LI,,,li,Europäische Genossenschaft,German,de,Europäische Genossenschaft,SCE,,11/30/17,ACTV,,,,
 32HC,Liechtenstein,LI,,,li,Verein,German,de,Verein,e.V.,,11/30/17,ACTV,,,,
@@ -1401,9 +1410,9 @@ YRXK,Lithuania,LT,,,lt,Savivaldybių įmonės,Lithuanian,lt,Savivaldybių įmon�
 ATQY,Luxembourg,LU,,,lu,Société en nom collectif,French,fr,Société en nom collectif,SENC,,11/30/17,ACTV,,,,
 BEAN,Luxembourg,LU,,,lu,Société d'investissement à capital fixe,French,fr,Société d'investissement à capital fixe,SICAF,,11/30/17,ACTV,,,,
 BKAB,Luxembourg,LU,,,lu,Association d'assurances mutuelles,French,fr,Association d'assurances mutuelles,AAM,,11/30/17,ACTV,,,,
-DVXS,Luxembourg,LU,,,lu,Société à responsabilité limitée,French,fr,Société à responsabilité limitée,SARL ,,11/30/17,ACTV,,,,
+DVXS,Luxembourg,LU,,,lu,Société à responsabilité limitée,French,fr,Société à responsabilité limitée,S.A.R.L.;SARL,,11/30/17,ACTV,,,,
 FG84,Luxembourg,LU,,,lu,Societas Cooperativa Europaea,French,fr,Societas Cooperativa Europaea,SCE,,7/5/19,ACTV,,,,
-HHR4,Luxembourg,LU,,,lu,Société par actions simplifiée,French,fr,Société par actions simplifiée,S.A.S.,,7/5/19,ACTV,,,,
+HHR4,Luxembourg,LU,,,lu,Société par actions simplifiée,French,fr,Société par actions simplifiée,S.A.S.;SAS,,7/5/19,ACTV,,,,
 JIWD,Luxembourg,LU,,,lu,Autres personnes morales dont l'immatriculation est prévue par l'article 1 de la loi modifiée du 19 décembre 2002 concernant le registre de commerce et des sociétés ainsi que la comptabilité et les comptes annuels des entreprises,French,fr,Autres personnes morales dont l'immatriculation est prévue par l'article 1 de la loi modifiée du 19 décembre 2002 concernant le registre de commerce et des sociétés ainsi que la comptabilité et les comptes annuels des entreprises,OTH,,11/30/17,ACTV,correction of name of legal form,7/5/19,name of legal form corrected,
 LCR0,Luxembourg,LU,,,lu,Groupement d'intérêt économique,French,fr,Groupement d'intérêt économique,GIE,,11/30/17,ACTV,,,,
 SQ1A,Luxembourg,LU,,,lu,Société civile,French,fr,Société civile,SCI,,11/30/17,ACTV,,,,
@@ -1414,16 +1423,16 @@ V19Y,Luxembourg,LU,,,lu,Fondation,French,fr,Fondation,FON,,11/30/17,ACTV,,,,
 V5OS,Luxembourg,LU,,,lu,Société coopérative,French,fr,Société coopérative,SC,,11/30/17,ACTV,,,,
 WCEP,Luxembourg,LU,,,lu,Société Européenne,French,fr,société européenne,,,11/30/17,ACTV,,,,
 ZFFA,Luxembourg,LU,,,lu,Etablissement public,French,fr,Etablissement public,EP,,11/30/17,ACTV,,,,
-BVJ0,Malta,MT,,,mt,Partnership en commendite or limited partnership,English,en,Partnership en commendite or limited partnership,LP;limited partnership;Limited Partnership;L.P.,,11/30/17,ACTV,,,,
-BVJ0,Malta,MT,,,mt,Soċjetà in akkomandita jew soċjetà limitata,Maltese,mt,Soċjetà in akkomandita jew soċjetà limitata,Limited Partnership;LP;L.P.,,11/30/17,ACTV,,,,
-C061,Malta,MT,,,mt,Public Limited Liability Company,English,en,Public Limited Liability Company,PLC;P.L.C;plc;p.l.c.,,11/30/17,ACTV,,,,
-C061,Malta,MT,,,mt,kumpanija pubblika,Maltese,mt,kumpanija pubblika,PLC;P.L.C;plc;p.l.c.,,11/30/17,ACTV,,,,
+BVJ0,Malta,MT,,,mt,Partnership en commendite or limited partnership,English,en,Partnership en commendite or limited partnership,LP;L.P.;L. P.;Partnership;PARTNERSHIP EN COMMANDITE;(partnership);,,11/30/17,ACTV,,,,
+BVJ0,Malta,MT,,,,Soċjetà in akkomandita jew soċjetà limitata,Maltese,mt,Soċjetà in akkomandita jew soċjetà limitata,LP;L.P.;L. P.,,11/30/17,ACTV,,,,
+C061,Malta,MT,,,mt,Public Limited Liability Company,English,en,Public Limited Liability Company,PUBLIC LIMITED COMPANY;PLC;P.L.C;p.l.c.,,11/30/17,ACTV,,,,
+C061,Malta,MT,,,,kumpanija pubblika,Maltese,mt,kumpanija pubblika,PLC;P.L.C;plc;p.l.c.,,11/30/17,ACTV,,,,
 CR7N,Malta,MT,,,mt,European Company,English,en,European Company,SE,,11/30/17,ACTV,,,,
-CR7N,Malta,MT,,,mt,Societas Europaea,Maltese,mt,Societas Europaea,SE,,11/30/17,ACTV,,,,
+CR7N,Malta,MT,,,,Societas Europaea,Maltese,mt,Societas Europaea,SE,,11/30/17,ACTV,,,,
 JOZN,Malta,MT,,,mt,Partnership en nom collectif,English,en,Partnership en nom collectif,,,11/30/17,ACTV,,,,
-JOZN,Malta,MT,,,mt,soċjetà f’isem kollettiv,Maltese,mt,soċjetà f’isem kollettiv,,,11/30/17,ACTV,,,,
-V89C,Malta,MT,,,mt,Private Limited Liability Company,English,en,Private Limited Liability Company,Ltd;Ltd.;Limited,,11/30/17,ACTV,,,,
-V89C,Malta,MT,,,mt,kumpanija privata,Maltese,mt,kumpanija privata,Ltd;Ltd.;Limited,,11/30/17,ACTV,,,,
+JOZN,Malta,MT,,,,soċjetà f’isem kollettiv,Maltese,mt,soċjetà f’isem kollettiv,,,11/30/17,ACTV,,,,
+V89C,Malta,MT,,,mt,Private Limited Liability Company,English,en,Private Limited Liability Company,Ltd;Ltd.;Limited;CO. LTD.;CO. LTD;CO LTD;CO. LIMITED;CO LIMITED;CO-LTD.,,11/30/17,ACTV,,,,
+V89C,Malta,MT,,,,kumpanija privata,Maltese,mt,kumpanija privata,Ltd;Ltd.;Limited,,11/30/17,ACTV,,,,
 YB0U,Malta,MT,,,mt,European Economic Interest Grouping,English,en,European Economic Interest Grouping,EEIG,,11/30/17,ACTV,,,,
 4AJY,Mauritius,MU,,,mu,Business,English,en,Business,,,11/30/17,ACTV,,,,
 6M6Z,Mauritius,MU,,,mu,Public Companies Limited By Guarantee,English,en,Public Companies Limited By Guarantee,PC;PLC;LTD;LTEE,,11/30/17,ACTV,,,,
@@ -1431,7 +1440,7 @@ AOS4,Mauritius,MU,,,mu,Private Companiy Limited By Guarantee,English,en,Private 
 B0LD,Mauritius,MU,,,mu,Ministries And Parastal Bodies,English,en,Ministries And Parastal Bodies,,,11/30/17,ACTV,,,,
 BVPF,Mauritius,MU,,,mu,Cooperatives,English,en,Cooperatives,COOP,,11/30/17,ACTV,,,,
 G7H0,Mauritius,MU,,,mu,Private Company,English,en,Private Companies,PT;PLC;LTD;LTEE,,11/30/17,ACTV,,,,
-J76S,Mauritius,MU,,,mu,Limited Partnerships,English,en,Limited Partnerships,Limited Partnership;LP;L.P.,,11/30/17,ACTV,,,,
+J76S,Mauritius,MU,,,mu,Limited Partnership,English,en,Limited Partnership,LP;L.P.;L. P.,,11/30/17,ACTV,,,,
 JWWT,Mauritius,MU,,,mu,Foundations,English,en,Foundations,F,,11/30/17,ACTV,,,,
 O786,Mauritius,MU,,,mu,Société,French,fr,Société,SOCIETE;STE,,11/30/17,ACTV,,,,
 RJYT,Mauritius,MU,,,mu,Trade Unions,English,en,Trade Unions,TU,,11/30/17,ACTV,,,,
@@ -1472,7 +1481,7 @@ UNJ2,Netherlands,NL,,,nl,rederij,Dutch,nl,rederij,,,11/30/17,ACTV,,,,
 V44D,Netherlands,NL,,,nl,stichting,Dutch,nl,stichting,,,11/30/17,ACTV,,,,
 Y3ZB,Netherlands,NL,,,nl,Societas Cooperativa Europaea,Dutch,nl,Societas Cooperativa Europaea,SCE;S.C.E.,,11/30/17,ACTV,,,,
 4LEA,New Zealand,NZ,,,nz,Unlimited Liability Company,English,en,Unlimited Liability Company,Unltd;Ultd;ULC;Unlimited,,11/30/17,ACTV,,,,
-F7KI,New Zealand,NZ,,,nz,Limited Partnership,English,en,Limited Partnership,Limited Partnership;LP;L.P.,,11/30/17,ACTV,,,,
+F7KI,New Zealand,NZ,,,nz,Limited Partnership,English,en,Limited Partnership,LP;L.P.;L. P.,,11/30/17,ACTV,,,,
 P2R9,New Zealand,NZ,,,nz,Limited Liability Company,English,en,Limited Liability Company,Ltd;Ltd.;Limited,,11/30/17,ACTV,,,,
 Z6ZU,New Zealand,NZ,,,nz,Cooperative Company,English,en,Cooperative Company,COOP;LIMITED;CO-OPERATIVE LIMITED ,,11/30/17,ACTV,,,,
 149O,North Macedonia,MK,,,mk,Командитно друштво со акции,Macedonian,mk,Komanditno drustvo so akcii,KDA,,11/30/17,ACTV,,7/5/19,change country name,
@@ -1544,7 +1553,7 @@ J3A3,Poland,PL,,,pl,spółka europejska,Polish,pl,spółka europejska,SE,,11/30/
 JCKO,Poland,PL,,,pl,państwowe jednostki organizacyjne,Polish,pl,państwowe jednostki organizacyjne,,,11/30/17,ACTV,,,,
 KM66,Poland,PL,,,pl,instytuty badawcze,Polish,pl,instytuty badawcze,,,11/30/17,ACTV,,,,
 LT9U,Poland,PL,,,pl,związki zawodowe,Polish,pl,związki zawodowe,,,11/30/17,ACTV,,,,
-O7XB,Poland,PL,,,pl,spółki z ograniczoną odpowiedzialnością,Polish,pl,spółki z ograniczoną odpowiedzialnością,sp. z o.o.,,11/30/17,ACTV,,,,
+O7XB,Poland,PL,,,pl,spółki z ograniczoną odpowiedzialnością,Polish,pl,SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ,sp. z o.o.,,11/30/17,ACTV,,,,
 OMX0,Poland,PL,,,pl,spółki komandytowo - akcyjne,Polish,pl,spółki komandytowo - akcyjne,S.K.A.,,11/30/17,ACTV,,,,
 P1L1,Poland,PL,,,pl,główny oddział zagranicznego zakładu ubezpieczeń,Polish,pl,główny oddział zagranicznego zakładu ubezpieczeń,,,11/30/17,ACTV,,,,
 QUX1,Poland,PL,,,pl,otwarte fundusze emerytalne,Polish,pl,otwarte fundusze emerytalne,OFE,,11/30/17,ACTV,,,,
@@ -1758,7 +1767,7 @@ E7W8,Serbia,RS,,,rs,Задруга,Serbian,sr,Zadruga,,,11/30/17,ACTV,,,,
 KIU5,Serbia,RS,,,rs,Друштво са ограниченом одговорношћу,Serbian,sr,Društvo sa ograničenom odgovornošću,д.о.о.;доо,d.o.o.;doo,11/30/17,ACTV,,,,
 YVPW,Serbia,RS,,,rs,Акционарско друштво,Serbian,sr,Akcionarsko društvo,а.д;ад,a.d;ad,11/30/17,ACTV,,,,
 ZPOY,Serbia,RS,,,rs,Ортачко друштво,Serbian,sr,Ortačko društvo,о.д.;од,o.d.;od,11/30/17,ACTV,,,,
-17FJ,Singapore,SG,,,sg,Limited Partnership,English,en,Limited Partnership,Limited Partnership;L.P.;LP,,11/30/17,ACTV,,,,
+17FJ,Singapore,SG,,,sg,Limited Partnership,English,en,Limited Partnership,LP;L.P.;L. P.,,11/30/17,ACTV,,,,
 2PHU,Singapore,SG,,,sg,Business,English,en,Business,,,11/30/17,ACTV,,,,
 5SGV,Singapore,SG,,,sg,Limited Liability Partnership,English,en,Limited Liability Partnership,Limited Liability Partnership;L.L.P.;LLP,,11/30/17,ACTV,,,,
 KEMH,Singapore,SG,,,sg,Company (Foreign Branch),English,en,Company (Foreign Branch),,,11/30/17,ACTV,,,,
@@ -2013,7 +2022,7 @@ XJHM,Sweden,SE,,,se,Aktiebolag,Swedish,sv,Aktiebolag,AB,,11/30/17,ACTV,language 
 2XJA,Switzerland,CH,,,ch,Verwaltung des Bundes,German,de,Verwaltung des Bundes,Bund,,11/30/17,ACTV,,,,
 2XJA,Switzerland,CH,,,ch,Amministrazione della Confederazione,Italian,it,Amministrazione della Confederazione,Confederazione,,11/30/17,ACTV,,,,
 3EKS,Switzerland,CH,,,ch,Limited liability company,English,en,Limited liability company,Ltd;Ltd.;Limited,,11/30/17,ACTV,,,,
-3EKS,Switzerland,CH,,,ch,Société à responsabilité limitée (SARL),French,fr,Société à responsabilité limitée (SARL),SARL,,11/30/17,ACTV,,,,
+3EKS,Switzerland,CH,,,ch,Société à responsabilité limitée (SARL),French,fr,Société à responsabilité limitée (SARL),S.A.R.L.;SARL,,11/30/17,ACTV,,,,
 3EKS,Switzerland,CH,,,ch,Gesellschaft mit beschränkter Haftung (GmbH),German,de,Gesellschaft mit beschränkter Haftung (GmbH),GMBH,,11/30/17,ACTV,,,,
 3EKS,Switzerland,CH,,,ch,Società a garanzia limitata (SAGL),Italian,it,Società a garanzia limitata (SAGL),SAGL,,11/30/17,ACTV,,,,
 54WI,Switzerland,CH,,,ch,Investment company with fixed capital,English,en,Investment company with fixed capital,,,11/30/17,ACTV,,,,
@@ -2133,7 +2142,7 @@ YRGM,Switzerland,CH,,,ch,Administration du district,French,fr,Administration du 
 YRGM,Switzerland,CH,,,ch,Verwaltung des Bezirks,German,de,Verwaltung des Bezirks,Bezirk,,11/30/17,ACTV,,,,
 YRGM,Switzerland,CH,,,ch,Amministrazione del distretto,Italian,it,Amministrazione del distretto,Distretto,,11/30/17,ACTV,,,,
 ,,TH,,,th,บริษัทมหาชนจำกัด,Thai,th,Bris̄ʹạthmh̄āchncảkạd,จำกัด (มหาชน);บริษัท,,,,,,,"plc (UK), public limited company"
-,,TH,,,th,Public Company Limited,English,en,Public Co Limited; Public Co. Limited;Public Co. Ltd.; Public Co Ltd,,,,,,,,
+,,TH,,,th,Public Company Limited,English,en,Public Co Limited; Public Co. Limited;Public Co. Ltd.; Public Co Ltd;PCL,,,,,,,,
 ,,TH,,,th,บริษัทเอกชนจำกัด,Thai,th,bris̄ʹạth xekchn cảkạd,จำกัด;บริษัท,,,,,,,"Ltd. (UK), limited company"
 ,,TH,,,th,Company Limited,English,en,,Co. Limited;Co Limited;Co. Ltd.;Co Ltd;Company Ltd.;Company Ltd,,,,,,,
 ,,TH,,,th,ห้างหุ้นส่วนจำกัด,Thai,th,h̄̂āngh̄ûns̄̀wncảkạd,จำกัด;ห้างหุ้นส่วน,,,,,,,limited partnership
@@ -2170,7 +2179,7 @@ H0PO,United Kingdom,GB,,,gb,Private Limited Company,English,en,Private Limited C
 H0PO,United Kingdom,GB,,,gb,cyfyngedig,Welsh,cy,cyfyngedig,cyf;cyf.,,11/30/17,ACTV,correction of code for legal form,7/5/19,applies only to entities of the form concerned whose registered office is situated in Wales and choose to use the Welsh language version,
 HHYT,United Kingdom,GB,,,gb,European Public Limited-Liability Company (Societas Europaea),English,en,European Public Limited-Liability Company (Societas Europaea),SE;S.E.,,11/30/17,ACTV,,,,
 HX6D,United Kingdom,GB,,,gb,Private Limited,English,en,Private Limited,,,7/5/19,ACTV,,,,
-ID30,United Kingdom,GB,,,gb,Limited Partnership,English,en,Limited Partnership,LP;limited partnership;Limited Partnership; INC LP,,11/30/17,ACTV,,,,
+ID30,United Kingdom,GB,,,gb,Limited Partnership,English,en,Limited Partnership,LP;L.P.;L. P.;INC LP,,11/30/17,ACTV,,,,
 NAUO,United Kingdom,GB,,,gb,Other Company Type,English,en,Other Company Type,,,7/5/19,ACTV,,,,
 Q0M5,United Kingdom,GB,,,gb,Unregistered Company,English,en,Unregistered Company,,,11/30/17,ACTV,,,,
 TT2H,United Kingdom,GB,,,gb,Protected Cell Company,English,en,Protected Cell Company,,,7/5/19,ACTV,,,,
@@ -2242,7 +2251,7 @@ D92T,United States of America,US,Indiana,US-IN,us_in,Limited Liability Partnersh
 DQBZ,United States of America,US,Indiana,US-IN,us_in,Limited Liability Company,English,en,Limited Liability Company,Limited Liability Company;LLC,,7/5/19,ACTV,,,,
 EW9A,United States of America,US,Indiana,US-IN,us_in,Business Trust,English,en,Business Trust,,,7/5/19,ACTV,,,,
 EZ08,United States of America,US,Indiana,US-IN,us_in,Agricultural Cooperative,English,en,Agricultural Cooperative,Corporation;Incorporated;Company;Limited;Corp;Inc.;Co.;Ltd.,,7/5/19,ACTV,,,,
-G4YY,United States of America,US,Indiana,US-IN,us_in,Limited Partnership,English,en,Limited Partnership,Limited Partnership;LP,,7/5/19,ACTV,,,,
+G4YY,United States of America,US,Indiana,US-IN,us_in,Limited Partnership,English,en,Limited Partnership,LP;L.P.;L. P.,,7/5/19,ACTV,,,,
 N0YQ,United States of America,US,Indiana,US-IN,us_in,Insurance Corporation,English,en,Insurance Corporation,,,7/5/19,ACTV,,,,
 R0BI,United States of America,US,Indiana,US-IN,us_in,For-Profit Corporation,English,en,For-Profit Corporation,Corporation;Incorporated;Company;Limited;Corp;Inc.;Co.;Ltd.,,7/5/19,ACTV,,,,
 V5G5,United States of America,US,Indiana,US-IN,us_in,Professional Benefit Corporation,English,en,Professional Benefit Corporation,Professional Corporation;Professional Service Corporation;PC;PSC,,7/5/19,ACTV,,,,
@@ -2297,14 +2306,14 @@ TTB3,United States of America,US,Maine,US-ME,us_me,Business Corporation,English,
 6I75,United States of America,US,Massachusetts,US-MA,us_ma,Professional Corporation,English,en,Professional Corporation,company;co.;corporation;corp.;incorporated;or inc.;limited or ltd.;professional corporation or p.c.,,7/5/19,ACTV,,,,
 BYFU,United States of America,US,Massachusetts,US-MA,us_ma,Limited Liability Company,English,en,Limited Liability Company,Limited Liability Company;LLC;L.L.C;Limited Company;LC;L.C.,,7/5/19,ACTV,,,,
 CAGH,United States of America,US,Massachusetts,US-MA,us_ma,Limited Liability Partnership,English,en,Limited Liability Partnership,Registered Limited Liability Partnership;Limited Liability Partnership;L.L.P.;LLP,,7/5/19,ACTV,,,,
-GOGQ,United States of America,US,Massachusetts,US-MA,us_ma,Limited Partnership,English,en,Limited Partnership,Limited Partnership,,7/5/19,ACTV,,,,
+GOGQ,United States of America,US,Massachusetts,US-MA,us_ma,Limited Partnership,English,en,Limited Partnership,LP;L.P.;L. P.,,7/5/19,ACTV,,,,
 NETO,United States of America,US,Massachusetts,US-MA,us_ma,Employee Cooperative Corporation,English,en,Employee Cooperative Corporation,Company;Corporation;Corp.;Incorporated;Inc.,,7/5/19,ACTV,,,,
 QX9N,United States of America,US,Massachusetts,US-MA,us_ma,Domestic Benefit Corporation (including professional corporations),English,en,Domestic Benefit Corporation (including professional corporations),Company;Co.;Corporation;Corp.;Incorporated;Inc. Limited;or Ltd. Professional Corporation or P.C. for those rendering professional services.,,7/5/19,ACTV,,,,
 R7QO,United States of America,US,Massachusetts,US-MA,us_ma,Non-Profit Corporation,English,en,Non-Profit Corporation,Company;Corporation;Corp.;Incorporated;Inc.,,7/5/19,ACTV,,,,
 Z73Z,United States of America,US,Massachusetts,US-MA,us_ma,Voluntary Association and Business Trusts,English,en,Voluntary Association and Business Trusts,,,7/5/19,ACTV,,,,
 ZJTK,United States of America,US,Massachusetts,US-MA,us_ma,Domestic Business  Corporation,English,en,Domestic Business  Corporation,Company;Co.;Corporation;Corp.;Incorporated;Inc. Limited;Ltd.,,7/5/19,ACTV,,,,
 47LQ,United States of America,US,Michigan,US-MI,us_mi,Corporation (Nonprofit),English,en,Corporation (Nonprofit),,,7/5/19,ACTV,,,,
-58N0,United States of America,US,Michigan,US-MI,us_mi,Limited Partnership,English,en,Limited Partnership,Limited Partnership,,7/5/19,ACTV,,,,
+58N0,United States of America,US,Michigan,US-MI,us_mi,Limited Partnership,English,en,Limited Partnership,LP;L.P.;L. P.,,7/5/19,ACTV,,,,
 6E4G,United States of America,US,Michigan,US-MI,us_mi,Limited Liability Partnership,English,en,Limited Liability Partnership,L.L.P.;LLP;Limited Liability Partnership,,7/5/19,ACTV,,,,
 88XU,United States of America,US,Michigan,US-MI,us_mi,Sole proprietorship,English,en,Sole proprietorship,,,7/5/19,ACTV,,,,
 HQJV,United States of America,US,Michigan,US-MI,us_mi,Professional Corporation,English,en,Professional Corporation,P.C.;PC;Professional Corporation,,7/5/19,ACTV,,,,
@@ -2427,9 +2436,9 @@ AEJF,United States of America,US,Ohio,US-OH,us_oh,Professional Association,Engli
 BTQ1,United States of America,US,Ohio,US-OH,us_oh,Corporation (For-Profit),English,en,Corporation (For-Profit),"company, co.;corporation;corp.;incorporated;inc.",,11/30/17,ACTV,,,,
 EZNQ,United States of America,US,Ohio,US-OH,us_oh,Limited Liability Company,English,en,Limited Liability Company,limited liability company;limited;LLC;L.L.C.;ltd.;ltd,,11/30/17,ACTV,,,,
 FZMT,United States of America,US,Ohio,US-OH,us_oh,Cooperative,English,en,Cooperative,Cooperative;coop.;co-operative;co-op;association;assn;company;co;incorporated;inc.;corporation;corp.,,11/30/17,ACTV,,,,
-ZD39,United States of America,US,Ohio,US-OH,us_oh,Limited Partnership,English,en,Limited Partnership,Limited Partnership;L.P.;Limited;Ltd.,,11/30/17,ACTV,,,,
+ZD39,United States of America,US,Ohio,US-OH,us_oh,Limited Partnership,English,en,Limited Partnership,LP;L.P.;L. P.;Limited;Ltd.,,11/30/17,ACTV,,,,
 4BEM,United States of America,US,Oregon,US-OR,us_or,Assumed Business Name,English,en,Assumed Business Name,Sole Proprietor;DBA;General Partnership,,7/5/19,ACTV,,,,
-GEE0,United States of America,US,Oregon,US-OR,us_or,Limited Partnership,English,en,Limited Partnership,Limited Partnership,,7/5/19,ACTV,,,,
+GEE0,United States of America,US,Oregon,US-OR,us_or,Limited Partnership,English,en,Limited Partnership,LP;L.P.;L. P.,,7/5/19,ACTV,,,,
 QK2J,United States of America,US,Oregon,US-OR,us_or,Limited Liability Company,English,en,Limited Liability Company,Limited Liability Company;LLC;L.L.C.,,7/5/19,ACTV,,,,
 R18M,United States of America,US,Oregon,US-OR,us_or,District Improvement Company,English,en,District Improvement Company,District Improvement Company,,7/5/19,ACTV,,,,
 T2DF,United States of America,US,Oregon,US-OR,us_or,Business Trust,English,en,Business Trust,trust,,7/5/19,ACTV,,,,
@@ -2437,7 +2446,7 @@ T5ZE,United States of America,US,Oregon,US-OR,us_or,Business Corporation,English
 UQWQ,United States of America,US,Oregon,US-OR,us_or,Cooperative Corporation,English,en,Cooperative Corporation,Cooperative;co-op,,7/5/19,ACTV,,,,
 UZ83,United States of America,US,Oregon,US-OR,us_or,Nonprofit Corporation,English,en,Nonprofit Corporation,,,7/5/19,ACTV,,,,
 V10Q,United States of America,US,Oregon,US-OR,us_or,Professional Corporation,English,en,Professional Corporation,Professional Corporation;P.C.;Prof. Corp,,7/5/19,ACTV,,,,
-WQLU,United States of America,US,Oregon,US-OR,us_or,Limited Liability Partnership,English,en,Limited Liability Partnership,Limited Liability Partnership;LLP;L.L.P.,,7/5/19,ACTV,,,,
+WQLU,United States of America,US,Oregon,US-OR,us_or,Limited Liability Partnership,English,en,Limited Liability Partnership,LLP;L.L.P.,,7/5/19,ACTV,,,,
 456O,United States of America,US,Virginia,US-VA,us_va,Partnership,English,en,Partnership,,,7/5/19,ACTV,,,,
 4WN7,United States of America,US,Virginia,US-VA,us_va,Limited Liability Company,English,en,Limited Liability Company,,,7/5/19,ACTV,,,,
 8KA4,United States of America,US,Virginia,US-VA,us_va,Registered Limited Liability Partnership,English,en,Registered Limited Liability Partnership,,,7/5/19,ACTV,,,,
